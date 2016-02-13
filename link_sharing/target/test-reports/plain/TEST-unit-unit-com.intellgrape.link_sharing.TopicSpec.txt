@@ -1,0 +1,59 @@
+Testsuite: com.intellgrape.link_sharing.TopicSpec
+Tests run: 5, Failures: 1, Errors: 4, Skipped: 0, Time elapsed: 0.199 sec
+------------- Standard Output ---------------
+--Output from test something--
+--Output from Visibility should not be null & must be enum[0]--
+--Output from Visibility should not be null & must be enum[1]--
+--Output from Visibility should not be null & must be enum[2]--
+--Output from Visibility should not be null & must be enum[3]--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test something--
+--Output from Visibility should not be null & must be enum[0]--
+--Output from Visibility should not be null & must be enum[1]--
+--Output from Visibility should not be null & must be enum[2]--
+--Output from Visibility should not be null & must be enum[3]--
+------------- ---------------- ---------------
+
+Testcase: test something took 0.118 sec
+	FAILED
+Condition not satisfied:
+
+topic.count() == 1
+|     |       |
+|     0       false
+com.intellgrape.link_sharing.Topic : (unsaved)
+
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+topic.count() == 1
+|     |       |
+|     0       false
+com.intellgrape.link_sharing.Topic : (unsaved)
+
+	at com.intellgrape.link_sharing.TopicSpec.test something(TopicSpec.groovy:30)
+
+Testcase: Visibility should not be null & must be enum[0] took 0.019 sec
+	Caused an ERROR
+No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+groovy.lang.MissingPropertyException: No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+	at com.intellgrape.link_sharing.TopicSpec.Visibility should not be null & must be enum(TopicSpec.groovy:47)
+
+Testcase: Visibility should not be null & must be enum[1] took 0.015 sec
+	Caused an ERROR
+No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+groovy.lang.MissingPropertyException: No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+	at com.intellgrape.link_sharing.TopicSpec.Visibility should not be null & must be enum(TopicSpec.groovy:47)
+
+Testcase: Visibility should not be null & must be enum[2] took 0.015 sec
+	Caused an ERROR
+No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+groovy.lang.MissingPropertyException: No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+	at com.intellgrape.link_sharing.TopicSpec.Visibility should not be null & must be enum(TopicSpec.groovy:47)
+
+Testcase: Visibility should not be null & must be enum[3] took 0.016 sec
+	Caused an ERROR
+No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+groovy.lang.MissingPropertyException: No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+	at com.intellgrape.link_sharing.TopicSpec.Visibility should not be null & must be enum(TopicSpec.groovy:47)
+

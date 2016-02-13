@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="4" failures="1" hostname="deepak-TravelMate-P257-M" id="0" name="TopicSpec" package="com.intellgrape.link_sharing" skipped="0" tests="5" time="0.199" timestamp="2016-02-12T13:48:02">
+      <properties />
+
+      <testcase classname="com.intellgrape.link_sharing.TopicSpec" name="test something" time="0.119">
+          <failure message="Condition not satisfied:&#xa;&#xa;topic.count() == 1&#xa;|     |       |&#xa;|     0       false&#xa;com.intellgrape.link_sharing.Topic : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+topic.count() == 1
+|     |       |
+|     0       false
+com.intellgrape.link_sharing.Topic : (unsaved)
+
+	at com.intellgrape.link_sharing.TopicSpec.test something(TopicSpec.groovy:30)
+</failure>
+
+      </testcase>
+
+      <testcase classname="com.intellgrape.link_sharing.TopicSpec" name="Visibility should not be null &amp; must be enum[0]" time="0.021">
+          <error message="No such property: user for class: com.intellgrape.link_sharing.TopicSpec" type="groovy.lang.MissingPropertyException">groovy.lang.MissingPropertyException: No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+	at com.intellgrape.link_sharing.TopicSpec.Visibility should not be null &amp; must be enum(TopicSpec.groovy:47)
+</error>
+
+      </testcase>
+
+      <testcase classname="com.intellgrape.link_sharing.TopicSpec" name="Visibility should not be null &amp; must be enum[1]" time="0.016">
+          <error message="No such property: user for class: com.intellgrape.link_sharing.TopicSpec" type="groovy.lang.MissingPropertyException">groovy.lang.MissingPropertyException: No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+	at com.intellgrape.link_sharing.TopicSpec.Visibility should not be null &amp; must be enum(TopicSpec.groovy:47)
+</error>
+
+      </testcase>
+
+      <testcase classname="com.intellgrape.link_sharing.TopicSpec" name="Visibility should not be null &amp; must be enum[2]" time="0.016">
+          <error message="No such property: user for class: com.intellgrape.link_sharing.TopicSpec" type="groovy.lang.MissingPropertyException">groovy.lang.MissingPropertyException: No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+	at com.intellgrape.link_sharing.TopicSpec.Visibility should not be null &amp; must be enum(TopicSpec.groovy:47)
+</error>
+
+      </testcase>
+
+      <testcase classname="com.intellgrape.link_sharing.TopicSpec" name="Visibility should not be null &amp; must be enum[3]" time="0.017">
+          <error message="No such property: user for class: com.intellgrape.link_sharing.TopicSpec" type="groovy.lang.MissingPropertyException">groovy.lang.MissingPropertyException: No such property: user for class: com.intellgrape.link_sharing.TopicSpec
+	at com.intellgrape.link_sharing.TopicSpec.Visibility should not be null &amp; must be enum(TopicSpec.groovy:47)
+</error>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from test something--
+--Output from Visibility should not be null & must be enum[0]--
+--Output from Visibility should not be null & must be enum[1]--
+--Output from Visibility should not be null & must be enum[2]--
+--Output from Visibility should not be null & must be enum[3]--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test something--
+--Output from Visibility should not be null & must be enum[0]--
+--Output from Visibility should not be null & must be enum[1]--
+--Output from Visibility should not be null & must be enum[2]--
+--Output from Visibility should not be null & must be enum[3]--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
