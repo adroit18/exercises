@@ -6,7 +6,9 @@ import spock.lang.Specification
 /**
  * See the API for {@link grails.test.mixin.domain.DomainClassUnitTestMixin} for usage instructions
  */
-@TestFor(Subscription)
+ 
+ //we are told not to test the uniqueness constraint yet.
+/*@TestFor(Subscription)
 
 class SubscriptionSpec extends Specification {
 
@@ -42,7 +44,7 @@ class SubscriptionSpec extends Specification {
 
 
 
-        }
+        }*/
 
     void "test for Seriousness"() {
 
