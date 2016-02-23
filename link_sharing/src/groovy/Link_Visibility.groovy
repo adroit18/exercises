@@ -1,4 +1,4 @@
-package com.intellgrape.link_sharing
+package com.tothenew.linksharing
 /**
  * Created by deepak on 12/2/16.
  */

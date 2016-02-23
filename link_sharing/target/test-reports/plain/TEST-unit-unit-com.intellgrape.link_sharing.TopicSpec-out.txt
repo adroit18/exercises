@@ -1,5 +1,0 @@
---Output from test something--
---Output from Visibility should not be null & must be enum[0]--
---Output from Visibility should not be null & must be enum[1]--
---Output from Visibility should not be null & must be enum[2]--
---Output from Visibility should not be null & must be enum[3]--
