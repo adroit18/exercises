@@ -7,8 +7,9 @@ class Subscription {
     Date lastUpdated;
     Seriousness seriousness;
     static belongsTo = [user: User, topic: Topic]
+
     static constraints = {
-        seriousness(nullable: false, blank: false)
-        user(nullable: true, unique: 'topic');
+        seriousness(nullable: false, blank: false,defaultValue:Seriousness.SERIOUS)
+        user(nullable: true)        // , unique: 'topic'
     }
 }

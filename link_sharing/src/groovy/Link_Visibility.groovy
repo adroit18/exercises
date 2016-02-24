@@ -6,4 +6,11 @@ enum Link_Visibility {
     PUBLIC,
     PRIVATE
 
+    public static Link_Visibility toenum(String str) {
+        if(str.equalsIgnoreCase("PUBLIC")){
+            PUBLIC
+        }
+        else
+            PRIVATE
+    }
 }

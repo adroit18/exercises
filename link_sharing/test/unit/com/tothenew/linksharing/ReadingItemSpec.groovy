@@ -24,8 +24,8 @@ class ReadingItemSpec extends Specification {
         result == valid
         where:
         isread | valid
-        true   | true
-        false  | true
+        true   | false
+        false  | false
         null   | false
 
 

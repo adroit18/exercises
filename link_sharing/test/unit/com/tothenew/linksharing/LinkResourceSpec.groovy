@@ -20,7 +20,7 @@ class LinkResourceSpec extends Specification {
     void "test something"() {
         setup: "user created Resource"
         // User user = new User(firstName: "sona", lastName: "Kumra", email: "a@b.com", password: "qwerty", username: "abc")
-        User user = new User(firstName: "deepak", lastName: "uniyal", emailId: "a@b.com", password: "qwerty")
+        User user = new User(firstName: "deepak", lastName: "uniyal",username: "deepak uniyal" ,emailId: "a@b.com", password: "qwerty")
         Topic topic = new Topic(name:"grails", visibility:Link_Visibility.PRIVATE, createdBy: user)
         LinkResource linkResource = new LinkResource(url: url,description:"this is helpfull" ,topic:topic ,createdBy:user )
 

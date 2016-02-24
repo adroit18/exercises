@@ -14,6 +14,9 @@ class Topic {
         name(blank: false, unique: 'createdBy');
         visibility(inlist: Link_Visibility.values() as List);
     }
+    static mapping = {
+        sort name:'asc'
+    }
 
     def afterInsert() {
         Topic.withNewSession {
