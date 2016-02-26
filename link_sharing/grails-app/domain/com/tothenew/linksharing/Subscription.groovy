@@ -12,4 +12,9 @@ class Subscription {
         seriousness(nullable: false, blank: false,defaultValue:Seriousness.SERIOUS)
         user(nullable: true)        // , unique: 'topic'
     }
+    
+    static mapping = {
+        topic lazy:false
+        user lazy: false
+    }
 }

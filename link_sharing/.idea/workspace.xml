@@ -2,592 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef4b0182-94fb-4290-84ce-a115ed008277" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/com_sun_tools_javac_Main_1988.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/com_sun_tools_javac_model_JavacElements_25376.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/com_sun_tools_javac_processing_JavacProcessingEnvironment$ServiceIterator_3971.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/com_sun_tools_javac_processing_JavacProcessingEnvironment_34722.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/com_sun_tools_javac_util_BaseFileManager_12535.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_change_ChangeFactory_3240.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_change_custom_CustomChangeWrapper_6255.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_database_DatabaseFactory_4285.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_database_typeconversion_TypeConverterFactory_2985.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_parser_ChangeLogParserFactory_3550.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_precondition_CustomPreconditionWrapper_4770.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_precondition_PreconditionFactory_2849.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_serializer_ChangeLogSerializerFactory_4207.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_serializer_core_string_StringChangeLogSerializer_7762.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_serializer_core_xml_XMLChangeLogSerializer_14710.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_servicelocator_ServiceLocator_9501.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_snapshot_DatabaseSnapshotGeneratorFactory_3991.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_sql_visitor_SqlVisitorFactory_2239.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_sqlgenerator_SqlGeneratorFactory_7806.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/liquibase_util_ObjectUtil_3343.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/org_apache_tools_ant_taskdefs_optional_native2ascii_SunNative2Ascii_2609.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/org_codehaus_groovy_tools_javac_JavacJavaCompiler_8638.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.slcache/org_codehaus_groovy_transform_LogASTTransformation_6158.bytes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/ConsoleController$_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/ConsoleController$_execute_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/ConsoleController$_getBaseUrl_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/ConsoleController$_listFiles_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/ConsoleController$_listFiles_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/ConsoleController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/ConsoleService$_createInterceptor_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/ConsoleService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/Evaluation$_getStackTraceAsString_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/Evaluation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/FirstTagLib.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/RatingInfoVO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource$__clinit__closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource$__clinit__closure4$_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource$__clinit__closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource$_getratingInfo_closure1$_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource$_getratingInfo_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourcesSearchCo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/SubscriptionController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic$__clinit__closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic$__clinit__closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic$_getTrendingTopics_closure2$_closure7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic$_getTrendingTopics_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic$_getTrendingTopics_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic$_getTrendingTopics_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/TopicController$_show_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/TopicController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/TopicVO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure3$_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UserController$_toppost_closure1$_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UserController$_toppost_closure1$_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UserController$_toppost_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/searchCO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/intellgrape/link_sharing/FIRSTTagLibSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/intellgrape/link_sharing/FirstTagLibSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/FirstTagLibSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/LoginControllerSpec$__spock_feature_0_2_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/LoginControllerSpec$__spock_feature_0_3_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ResourceControllerSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionControllerSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicControllerSpec$__spock_feature_0_0_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicControllerSpec$__spock_feature_0_1_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicControllerSpec$__spock_feature_0_1_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicControllerSpec$__spock_feature_0_2_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicControllerSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UserControllerSpec$__spock_feature_0_1_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UserControllerSpec$__spock_feature_0_2_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/intellgrape/link_sharing/FIRSTTagLib.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/intellgrape/link_sharing/FirstTagLib.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/FirstTagLib$_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/FirstTagLib$_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/FirstTagLib.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController$_toppost_closure1$_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController$_toppost_closure1$_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController$_toppost_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/RatingInfoVO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure4$_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure4$_closure8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure6$_closure9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_closure1$_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_closure1$_closure6$_closure7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_closure1$_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getTopPosts_closure2$_closure8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getTopPosts_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getTopPosts_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getTrendingTopics_closure2$_closure8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getTrendingTopics_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getTrendingTopics_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getratingInfo_closure1$_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getratingInfo_closure1$_closure7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getratingInfo_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$__clinit__closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$__clinit__closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1$_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1$_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_toppost_closure1$_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_toppost_closure1$_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_toppost_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourcesSearchCo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$__clinit__closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$__clinit__closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$__clinit__closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$__clinit__closure7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$__clinit__closure8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTopPosts_closure5$_closure10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTopPosts_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTopPosts_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTrendingTopics_closure2$_closure5$_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTrendingTopics_closure2$_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTrendingTopics_closure2$_closure6$_closure7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTrendingTopics_closure2$_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTrendingTopics_closure2$_closure7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTrendingTopics_closure2$_closure9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTrendingTopics_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTrendingTopics_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_getTrendingTopics_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicVO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$__clinit__closure4$_closure7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$__clinit__closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_toppost_closure2$_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_toppost_closure2$_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_toppost_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_toppost_closure1$_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_toppost_closure1$_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_toppost_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/searchCO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/DocumentResourceSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/FirstTagLibSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/LinkResourceSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/LoginControllerSpec$__spock_feature_0_2_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/LoginControllerSpec$__spock_feature_0_3_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/LoginControllerSpec$__spock_feature_0_3_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/LoginControllerSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/ReadingItemSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/ResourceControllerSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/ResourceSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/SubscriptionControllerSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/SubscriptionSpec$__spock_feature_0_0_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/SubscriptionSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/TopicControllerSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/TopicSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/UserControllerSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/UserSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/com/tothenew/linksharing/UtilControllerSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/ConsoleGrailsPlugin$_closure1$_closure2$_closure3$_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/ConsoleGrailsPlugin$_closure1$_closure2$_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/ConsoleGrailsPlugin$_closure1$_closure2$_closure4$_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/ConsoleGrailsPlugin$_closure1$_closure2$_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/ConsoleGrailsPlugin$_closure1$_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/ConsoleGrailsPlugin$_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/ConsoleGrailsPlugin.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/console/ConsoleController$_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/console/ConsoleController$_execute_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/console/ConsoleController$_getBaseUrl_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/console/ConsoleController$_listFiles_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/console/ConsoleController$_listFiles_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/console/ConsoleController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/console/ConsoleService$_createInterceptor_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/console/ConsoleService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/console/Evaluation$_getStackTraceAsString_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/console/Evaluation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/img/grails.logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/font-awesome-4.0.3/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/font-awesome-4.0.3/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/font-awesome-4.0.3/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/font-awesome-4.0.3/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/scriptCache/IdeaPrintProjectSettings$_run_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/scriptCache/IdeaPrintProjectSettings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/scriptCache/LinkedProperties.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/scriptCache/ListEnumeration.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/taglib/com/tothenew/linksharing/FirstTagLib.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/link_sharing-grailsPlugins.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/link_sharing.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/groovy/RatingInfoVO.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/groovy/ResourcesSearchCo.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/groovy/TopicVO.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/TESTS-TestSuites.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/html/all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/html/failed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/html/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/html/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/ConsoleGrailsPlugin.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/grails-app/controllers/org/grails/plugins/console/ConsoleController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/grails-app/services/org/grails/plugins/console/ConsoleService.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/grails-app/views/console/_css.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/grails-app/views/console/_favicon.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/grails-app/views/console/_js.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/grails-app/views/console/index.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/grails-app/views/layouts/console-plugin-layout.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/scripts/_Events.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/src/groovy/org/grails/plugins/console/Evaluation.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/css/app.1453181344637.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/js/app.1453181344637.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/codemirror-5.2/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/codemirror-5.2/lib/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/codemirror-5.2/lib/codemirror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/codemirror-5.2/mode/groovy/groovy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/codemirror-5.2/mode/groovy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/codemirror-5.2/theme/lesser-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/font-awesome-4.0.3/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/font-awesome-4.0.3/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/font-awesome-4.0.3/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-layout/css/jquery.layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-layout/js/jquery.layout-latest.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-layout/js/jquery.layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/jquery-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/jquery-ui-1.10.3/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/js/libs/backbone-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/js/libs/backbone-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/js/libs/backbone.marionette.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/js/libs/handlebars.runtime-v4.0.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/js/libs/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/js/libs/jquery-ui-1.8.17.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/js/libs/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/js/libs/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/js/plugins/jasmine-jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/console-1.5.7/web-app/vendor/js/plugins/jquery.hotkeys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/com/intellgrape/link_sharing/FIRSTTagLibSpec.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/com/intellgrape/link_sharing/FirstTagLibSpec.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/FirstTagLibSpec.groovy" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic$__clinit__closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/resourceCo.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure6$_closure11$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure6$_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure6$_closure12$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure6$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure7$_closure12$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure7$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResourceRatings_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResource_closure4$_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResource_closure4$_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResource_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopic_closure3$_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopic_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3$_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3$_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5$_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5$_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ResourceController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/UrlMappings$__clinit__closure1$_closure2$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/link_sharing/ApplicationFilters$_closure1$_closure2$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/link_sharing/ApplicationFilters$_closure1$_closure2$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/link_sharing/ApplicationFilters$_closure1$_closure2$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/link_sharing/ApplicationFilters$_closure1$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/link_sharing/ApplicationFilters$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/link_sharing/ApplicationFilters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/link_sharing/LoginController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/link_sharing/LogincontrollerController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/linksharing/ApplicationFilters$_closure1$_closure2$_closure3$_closure6$_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/linksharing/ApplicationFilters$_closure1$_closure2$_closure3$_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/linksharing/ApplicationFilters$_closure1$_closure2$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/linksharing/ApplicationFilters$_closure1$_closure2$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/linksharing/ApplicationFilters$_closure1$_closure2$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/linksharing/ApplicationFilters$_closure1$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/linksharing/ApplicationFilters$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/intellgrape/linksharing/ApplicationFilters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ApplicationFilters$_closure1$_closure2$_closure3$_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ApplicationFilters$_closure1$_closure2$_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ApplicationFilters$_closure1$_closure3$_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ApplicationFilters$_closure1$_closure3$_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ApplicationFilters$_closure1$_closure3$_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ApplicationFilters$_closure1$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$__tt__delete_closure11$_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$__tt__delete_closure11$_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$__tt__delete_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$__tt__save_closure9$_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$__tt__save_closure9$_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$__tt__save_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$__tt__update_closure10$_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$__tt__update_closure10$_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$__tt__update_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$_create_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$_delete_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$_edit_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$_index_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$_notFound_closure8$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$_notFound_closure8$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$_notFound_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$_save_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$_show_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController$_update_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResourceController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$__tt__delete_closure11$_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$__tt__delete_closure11$_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$__tt__delete_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$__tt__save_closure9$_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$__tt__save_closure9$_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$__tt__save_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$__tt__update_closure10$_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$__tt__update_closure10$_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$__tt__update_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$_create_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$_delete_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$_edit_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$_index_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$_notFound_closure8$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$_notFound_closure8$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$_notFound_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$_save_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$_show_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController$_update_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResourceController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController$_closure1$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController$_login_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LogincController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LogincontrollerController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$__tt__delete_closure11$_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$__tt__delete_closure11$_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$__tt__delete_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$__tt__save_closure9$_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$__tt__save_closure9$_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$__tt__save_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$__tt__update_closure10$_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$__tt__update_closure10$_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$__tt__update_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$_create_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$_delete_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$_edit_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$_index_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$_notFound_closure8$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$_notFound_closure8$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$_notFound_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$_save_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$_show_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController$_update_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItemController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$__tt__delete_closure11$_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$__tt__delete_closure11$_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$__tt__delete_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$__tt__save_closure9$_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$__tt__save_closure9$_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$__tt__save_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$__tt__update_closure10$_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$__tt__update_closure10$_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$__tt__update_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$_create_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$_delete_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$_edit_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$_index_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$_notFound_closure8$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$_notFound_closure8$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$_notFound_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$_save_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$_show_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController$_update_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$__tt__delete_closure11$_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$__tt__delete_closure11$_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$__tt__delete_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$__tt__save_closure9$_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$__tt__save_closure9$_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$__tt__save_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$__tt__update_closure10$_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$__tt__update_closure10$_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$__tt__update_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$_create_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$_delete_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$_edit_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$_index_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$_notFound_closure8$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$_notFound_closure8$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$_notFound_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$_save_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$_show_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController$_update_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRatingController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$__tt__delete_closure11$_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$__tt__delete_closure11$_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$__tt__delete_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$__tt__save_closure9$_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$__tt__save_closure9$_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$__tt__save_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$__tt__update_closure10$_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$__tt__update_closure10$_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$__tt__update_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$_create_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$_delete_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$_edit_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$_index_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$_notFound_closure8$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$_notFound_closure8$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$_notFound_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$_save_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$_show_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController$_update_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$__tt__delete_closure11$_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$__tt__delete_closure11$_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$__tt__delete_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$__tt__save_closure9$_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$__tt__save_closure9$_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$__tt__save_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$__tt__update_closure10$_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$__tt__update_closure10$_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$__tt__update_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_create_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_delete_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_edit_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_index_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_notFound_closure8$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_notFound_closure8$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_notFound_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_save_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_show_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_update_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$__tt__delete_closure11$_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$__tt__delete_closure11$_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$__tt__delete_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$__tt__save_closure9$_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$__tt__save_closure9$_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$__tt__save_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$__tt__update_closure10$_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$__tt__update_closure10$_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$__tt__update_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_create_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_delete_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_edit_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_index_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_notFound_closure8$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_notFound_closure8$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_notFound_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_save_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_show_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController$_update_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/resourceCo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/searchCO.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/JQueryResourceTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/JQueryResourceTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/JQueryTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/JQueryTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/asset/pipeline/grails/AssetMethodTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/asset/pipeline/grails/AssetMethodTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/asset/pipeline/grails/AssetsTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/asset/pipeline/grails/AssetsTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/grails/plugin/cache/CacheTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/grails/plugin/cache/CacheTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/grails/plugin/databasemigration/DbdocController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/grails/plugin/databasemigration/DbdocController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/DocumentResource.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/DocumentResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/LinkResource.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/LinkResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Link_Visibility.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Link_Visibility.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/LoginController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/LoginController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ReadingItem.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ReadingItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource$__clinit__closure2.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource$__clinit__closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceRating.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceRating.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Subscription$__clinit__closure1.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Subscription$__clinit__closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Subscription.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Subscription.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic$_afterInsert_closure1.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic$_afterInsert_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure2.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure3.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$_getName_closure1.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$_getName_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UserController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UtilController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UtilController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/DocumentResourceSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/DocumentResourceSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/LinkResourceSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/LinkResourceSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/LoginControllerSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/LoginControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ReadingItemSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ReadingItemSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ResourceSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ResourceSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionSpec$__spock_feature_0_0_closure1.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionSpec$__spock_feature_0_0_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UserControllerSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UserControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UserSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UserSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UtilControllerSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UtilControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_closure1.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_closure2.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure6.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResourceRatings_closure7.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResourceRatings_closure7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure10.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure9.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3$_closure8.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3$_closure8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5$_closure11.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5$_closure11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1$_closure5.class" afterPath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1$_closure5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResource.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/DocumentResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResource.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LinkResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItem.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ReadingItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure2.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Seriousness.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Seriousness.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Subscription.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Subscription.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$__clinit__closure2.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$__clinit__closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$__clinit__closure3.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$__clinit__closure3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_afterInsert_closure1.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic$_afterInsert_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_show_closure1.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController$_show_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/TopicController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UtilController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UtilController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetMethodTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetMethodTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.slcache/.index" afterPath="$PROJECT_DIR$/.slcache/.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/SubscriptionController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/SubscriptionController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/TopicController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/TopicController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UtilController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UtilController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/DocumentResource.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/DocumentResource.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/LinkResource.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/LinkResource.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/util/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/util/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/groovy/Seriousness.groovy" afterPath="$PROJECT_DIR$/src/groovy/Seriousness.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/groovy/searchCO.groovy" afterPath="$PROJECT_DIR$/src/groovy/searchCO.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/DocumentResourceSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/DocumentResourceSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LinkResourceSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LinkResourceSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/SubscriptionSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/SubscriptionSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/UserControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/UserControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/UserSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/UserSpec.groovy" />
     </list>
     <ignored path="link_sharing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -627,21 +47,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SubscriptionController.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/SubscriptionController.groovy">
+      <file leaf-file-name="UserController.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77832514">
-              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+            <state vertical-scroll-proportion="-9.64">
+              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subscription.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Subscription.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.53571427">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.56">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -650,23 +70,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Link_Visibility.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/groovy/Link_Visibility.groovy">
+      <file leaf-file-name="ReadingItem.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ReadingItem.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
+            <state vertical-scroll-proportion="-1.6071428">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="Seriousness.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/groovy/Seriousness.groovy">
+      <file leaf-file-name="User.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state vertical-scroll-proportion="-4.553571">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -704,7 +130,6 @@
         <option value="$PROJECT_DIR$/src/groovy/resourceCo.groovy" />
         <option value="$PROJECT_DIR$/src/groovy/Link_Visibility.groovy" />
         <option value="$PROJECT_DIR$/src/groovy/searchCO.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" />
         <option value="$PROJECT_DIR$/src/groovy/RatingInfoVO.groovy" />
         <option value="$PROJECT_DIR$/src/groovy/Topic.groovy" />
         <option value="$PROJECT_DIR$/src/groovy/TopicVO.groovy" />
@@ -733,12 +158,13 @@
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicControllerSpec.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/UserSpec.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/UserControllerSpec.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" />
         <option value="$PROJECT_DIR$/src/groovy/Seriousness.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/SubscriptionController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" />
       </list>
     </option>
   </component>
@@ -1690,7 +1116,7 @@
       <workItem from="1456201316175" duration="22039000" />
       <workItem from="1456226155463" duration="63000" />
       <workItem from="1456226335438" duration="80503000" />
-      <workItem from="1456409179462" duration="19569000" />
+      <workItem from="1456409179462" duration="21464000" />
     </task>
     <servers />
   </component>
@@ -1727,11 +1153,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="233196000" />
+    <option name="totallyTimeSpent" value="235091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1755,7 +1181,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29003984" sideWeight="0.48989898" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29003984" sideWeight="0.48989898" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36939722" sideWeight="0.49402392" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1786,8 +1212,14 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="49" />
+      <option name="time" value="50" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1824,17 +1256,6 @@
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ReadingItem.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6838906">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/groovy/RatingInfoVO.groovy">
@@ -2132,17 +1553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.04">
@@ -2186,26 +1596,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/SubscriptionController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8029557">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.77832514">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovy/Link_Visibility.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24361949">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/groovy/Seriousness.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.6264501">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.53571427">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state vertical-scroll-proportion="-4.553571">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2213,20 +1631,34 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/groovy/Link_Visibility.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ReadingItem.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
+        <state vertical-scroll-proportion="-1.6071428">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.64">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/SubscriptionController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77832514">
-          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.56">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
       </provider>
     </entry>
   </component>
