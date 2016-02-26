@@ -1,39 +1,123 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
-<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
-<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"><!--<![endif]-->
+<!--[if lt IE 7 ]> <!--<html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]> <!--   <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]> <!--   <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]> <!--   <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-- <html lang="en" class="no-js"><!--<![endif]-->
 <head>
 
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet"
-          integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw=="
-          crossorigin="anonymous"/>
+    <!--<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+-->
+    <title><g:layoutTitle/>Link Sharing</title>
 
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
-            integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A=="
-            crossorigin="anonymous"></script>
-
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title><g:layoutTitle default="Grails"/></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="${assetPath(src: 'favicon.ico')}" type="image/x-icon">
-    <link rel="apple-touch-icon" href="${assetPath(src: 'apple-touch-icon.png')}">
-    <link rel="apple-touch-icon" sizes="114x114" href="${assetPath(src: 'apple-touch-icon-retina.png')}">
 
-
-    <asset:stylesheet src="application.css"/>
     <asset:javascript src="application.js"/>
-    <g:layoutHead/>
+    <asset:stylesheet src="bootstrap.min.js"/>
+    <asset:stylesheet src="bootstrap.min.css"/>
+    <asset:stylesheet src="bootstrap-theme.min.css"/>
+    <asset:stylesheet src="glyphicons-halflings-regular.woff2"/>
+    <asset:stylesheet src="glyphicons-halflings-regular.ttf"/>
+    <asset:stylesheet src="glyphicons-halflings-regular.woff"/>
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+    <style>
+
+    a {
+        text-decoration: underline;
+    }
+
+    #search-panel {
+        border: solid black;
+        border-radius: 8px;
+    }
+
+    a {
+        text-decoration: underline;
+    }
+
+    #search-panel {
+        border: solid black;
+        border-radius: 8px;
+    }
+
+    .btn:focus {
+        outline: none;
+    }
+
+    </style>
+<g:layoutHead/>
 </head>
 
 <body>
-<div id="grailsLogo" role="banner"><a href="http://grails.org"><asset:image src="grails_logo.png" alt="Grails"/></a>
-</div>
-<g:layoutBody/>
-<div class="footer" role="contentinfo"></div>
 
-<div id="spinner" class="spinner" style="display:none;"><g:message code="spinner.alt" default="Loading&hellip;"/></div>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="panel panel-default">
+                <div class="panel-body" style="border:3px solid black;border-radius:8px">
+                    <div class="col-xs-4">
+                        <a href="#" style="font-size:28px">Link Sharing</a>
+                    </div>
+
+                    <div class="col-xs-3">
+                        <div class="panel" id="search-panel">
+                            <div class="glyphicon glyphicon-search"></div>
+
+                            <div class="badge pull-right">
+                                <div class="glyphicon glyphicon-remove"></div>
+                            </div>
+                            <input type="text" placeholder="search" style="border:none">
+                        </div>
+                    </div>
+
+                    <div class="col-xs-5">
+                        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal4"
+                                style="border:none;background:none;color:black">
+                            <div class="glyphicon glyphicon-comment"></div></button>
+                        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal1"
+                                style="border:none;background:none;color:black"><div
+                                class="glyphicon glyphicon-envelope"></div></button>
+                        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2"
+                                style="border:none;background:none;color:black"><div
+                                class="glyphicon glyphicon-paperclip"></div></button>
+                        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal3"
+                                style="border:none;background:none;color:black"><div
+                                class="glyphicon glyphicon-edit"></div></button>
+
+                        <div class=" pull-right"><div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle " type="button" id="dropdownMenu1"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"
+                                    style="border:none"><div class="glyphicon glyphicon-user"></div>
+                                <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                <li><a href="#">Profiles</a></li>
+                                <li><a href="#">Users</a></li>
+                                <li><a href="#">Topic</a></li>
+                                <li><a href="#">Post</a></li>
+                                <li><g:link controller="login" action="logout">Logout</g:link></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="#">Separated link</a></li>
+                            </ul>
+                        </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <g:render template="/documentResource/create"/>
+    <g:render template="/topic/create"/>
+    <g:render template="/topic/email"/>
+    <g:render template="/linkResource/create"/>
+
+    <g:layoutBody/>
 </body>
 </html>

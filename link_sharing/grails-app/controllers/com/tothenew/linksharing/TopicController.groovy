@@ -16,7 +16,7 @@ class TopicController {
             //  forward(controller: "user", action: "index");
         }
         else if (topic && topic.visibility == Link_Visibility.PUBLIC) {
-            println "asdf,nfd";
+            //println "asdf,nfd";
             render "Success"
         }
         else if (topic && topic.visibility == Link_Visibility.PRIVATE) {
@@ -29,18 +29,22 @@ class TopicController {
         }
     }
 
-    def saveTopic(String name, String visibility) {
-        User createdBy = session.user;
-        Topic topic = new Topic(name: name, createdBy: createdBy, visibility: Link_Visibility.toenum(visibility))
-        if (topic.save()) {
-            flash.message = "Topic saved Successfully"
+    def save(String name, String visibility) {
 
+        if(name && visibility) {
+         User createdBy = session.user;
+         Topic topic = new Topic(name: name, createdBy: createdBy, visibility: Link_Visibility.toenum(visibility))
+         if (topic.save()) {
+             flash.message = "Topic saved Successfully"
 
-        }
+         } else
+             flash.message = "Topic could not be saved "
+         }
         else
-            flash.message = "Topic could not be saved "
+         flash.message="none"
 
-        render flash.message;
+        render flash.message
+        render  view:"../index";
 
 
     }

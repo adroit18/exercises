@@ -3,8 +3,8 @@ package com.tothenew.linksharing
 class UserController {
 
     def index() {
-        render 'User dashboard'
-
+        //render 'User dashboard'
+ render    view:"../index"
     }
 
     def register() {
@@ -31,6 +31,9 @@ class UserController {
 
 
     }
+
+
+
 
 
 }

@@ -4,29 +4,31 @@ class LoginController {
 
     def index() {
         if (session.user) {
-            forward(controller: 'user', action: 'index');
-        } else {
-            render "Failure " + flash.error
+//            forward(controller: 'user', action: 'index');
+        }
+        else
+        {
+            render view: 'index'
         }
     }
 
-    def loginHandler(String username, String password) {
+    def login(String username, String password) {
         User user = User.findByUsernameAndPassword(username, password);
-        if (user) {
 
+       // ResourceRating resourceRating = new ResourceRating()
+       // render resourceRating.getTopPosts();
+        if (user) {
             if (user.isActive == true) {
                 session.user = user;
-                forward(controller: 'login', action: 'index');
+                //forward(controller: 'login', action: 'index');
+                render view: 'index'
 
             } else {
                 flash.error = 'your account is not active';
                 render flash.error
-                // forward(action:"index")
+                 forward(action:"index")
             }
         } else {
-            ResourceRating resourceRating = new ResourceRating()
-            render resourceRating.getTopPosts();
-
             flash.error = 'User not found';
             render flash.error
 
@@ -37,6 +39,7 @@ class LoginController {
     def logout() {
         session.invalidate()
         flash.error = "User logged Out"
+
         forward(controller: 'login', action: 'index')
 
 

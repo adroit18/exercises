@@ -12,7 +12,7 @@ class User {
     Boolean isAdmin;
     byte[] profilePic;
     static transients = ['name']
-    transient  confirmPassword;
+        transient  confirmPassword;
 
     Date lastUpdated;
     Date dateCreated;
@@ -60,6 +60,17 @@ class User {
     String toString(){
         return getName()
     }
+
+    def getSubscribedTopics(){
+            List list=[];
+            User user=session.user
+            user.get(user.id).each{
+                list = it.subscriptions.topic.name
+            }
+            return list.unique().sort();
+        }
+
+
 
 
 
