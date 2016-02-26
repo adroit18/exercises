@@ -1,17 +1,39 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: deepak
-  Date: 10/2/16
-  Time: 11:26 PM
---%>
-
-<%@ page contentType="text/html;charset=UTF-8" %>
+<!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <meta name="layout" content="main"/>
+    <title>Form</title>
 </head>
-
 <body>
+
+<g:hasErrors bean="${user}" field="firstName">
+<g:eachError>
+<g:message error="${it?.firstName}">
+
+</g:message>
+
+    </g:eachError>
+
+</g:hasErrors>
+
+<g:renderErrors bean="${user}"/>
+
+    <g:form controller="Util" action="">
+    <label>First Name: </label>
+    <g:textField name="firstName"/><br/>
+    <label>Last Name: </label>
+    <g:textField name="lastName"/><br/>
+    <label>Age: </label>
+    <g:textField name="age"/><br/><label>Password: </label>
+    <g:passwordField name="password"></g:passwordField>
+    <g:actionSubmit value="Save" action="index"/>
+</g:form>
+
+<tl:showAdmin>This is only visible to admin</tl:showAdmin>
+
+%{--
+<tl:showUserList/>
+--}%
 
 </body>
 </html>

@@ -1,5 +1,5 @@
 package com.tothenew.linksharing
-//import enums.Seriousness
+
 class Subscription {
     Topic topic;
     User user;

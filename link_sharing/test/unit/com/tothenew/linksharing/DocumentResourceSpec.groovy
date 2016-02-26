@@ -1,6 +1,8 @@
 package com.tothenew.linksharing
 
-import com.tothenew.linksharing.Link_Visibility
+
+import com.tothenew.linksharing.*
+
 
 import grails.test.mixin.TestFor
 import spock.lang.Specification
@@ -35,5 +37,11 @@ class DocumentResourceSpec extends Specification {
         2   | null                 | false
         3   | "Desktop" | true
 
+    }
+    void "TestingToString"() {
+        setup:
+        DocumentResource documentResource = new DocumentResource(filePath: 'Home')
+        expect:
+        documentResource.toString() == "Home"
     }
 }

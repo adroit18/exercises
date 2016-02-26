@@ -1,7 +1,9 @@
 package com.tothenew.linksharing
 
-import com.tothenew.linksharing.Link_Visibility
-import com.tothenew.linksharing.Link_Visibility
+import com.tothenew.linksharing.*
+
+//import Link_Visibility
+//import Seriousness
 import grails.test.mixin.TestFor
 import spock.lang.Specification
 

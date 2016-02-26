@@ -7,4 +7,7 @@ class LinkResource extends Resource {
     static constraints = {
         url(blank:false);
     }
+    String toString(){
+        return  url
+    }
 }

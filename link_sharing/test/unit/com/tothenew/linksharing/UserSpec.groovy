@@ -23,7 +23,7 @@ class UserSpec extends Specification {
   @Unroll("Executing #sno")
    void "test user validations"() {
         setup:
-        User user = new User(firstName: fname, lastName: lname, emailId: email, password: password,userName: name)
+        User user = new User(firstName: fname, lastName: lname, emailId: email, password: password,username: name)
         when:
         Boolean result = user.validate()
 

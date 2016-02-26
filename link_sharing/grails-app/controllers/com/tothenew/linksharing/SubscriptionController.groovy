@@ -1,5 +1,7 @@
 package com.tothenew.linksharing
 
+import com.tothenew.linksharing.*
+
 class SubscriptionController {
 
     def index() {}
@@ -18,10 +20,20 @@ class SubscriptionController {
 
     }
 
-    def update(Integer id,String seriouseness){
-
-
+    def update(long id,String seriousness){
+        Subscription subscription=Subscription.get(id)
+        if(subscription && Seriousness.toenum(seriousness)){
+            subscription.seriousness=Seriousness.toenum(seriousness)
+            if(subscription.save(flush: true)){
+                render 'success'
+            }else{
+                render 'errors'
+            }
+        }else{
+            render 'subscription or seriousness not found'
+        }
     }
+
     def delete(long id){
         Subscription subscription=Subscription.get(id);
         if(subscription) {

@@ -1,6 +1,6 @@
 package com.tothenew.linksharing
 
-import com.tothenew.linksharing.Link_Visibility
+//import Link_Visibility
 
 
 //import Link_Visibility
@@ -64,9 +64,17 @@ class TopicSpec extends Specification {
         sno | visibility              | valid
         1   | " "                     | false
         2   | null                    | false
-        4   | Link_Visibility.PUBLIC | true
+        4   | Link_Visibility.PUBLIC  | true
         5   | Link_Visibility.PRIVATE | true
         6   | "xyz"                   | false
 
+    }
+
+    void "TestingToString"() {
+        setup:
+        Topic topic = new Topic(name: 'History')
+
+        expect:
+        topic.name == topic.toString()
     }
 }

@@ -14,7 +14,7 @@ class LoginController {
         User user = User.findByUsernameAndPassword(username, password);
         if (user) {
 
-            if (user.isActive==true) {
+            if (user.isActive == true) {
                 session.user = user;
                 forward(controller: 'login', action: 'index');
 
@@ -24,17 +24,20 @@ class LoginController {
                 // forward(action:"index")
             }
         } else {
+            ResourceRating resourceRating = new ResourceRating()
+            render resourceRating.getTopPosts();
+
             flash.error = 'User not found';
-            render(flash.error)
+            render flash.error
 
         }
     }
 
 
     def logout() {
-              session.invalidate()
-       flash.error="User logged Out"
-             forward(controller: 'login', action: 'index')
+        session.invalidate()
+        flash.error = "User logged Out"
+        forward(controller: 'login', action: 'index')
 
 
     }

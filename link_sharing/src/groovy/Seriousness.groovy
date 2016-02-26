@@ -7,4 +7,15 @@ enum Seriousness {
     VERY_SERIOUS,
     CASUAL
 
+    public static Seriousness toenum(String str) {
+        if(str.equalsIgnoreCase("serious")){
+            SERIOUS
+        }
+        else if (str.equalsIgnoreCase("very_serious"))
+            VERY_SERIOUS
+        else
+            CASUAL
+
+    }
+
 }

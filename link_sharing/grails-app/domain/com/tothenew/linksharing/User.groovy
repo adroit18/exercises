@@ -1,6 +1,6 @@
 package com.tothenew.linksharing
 
-
+import com.tothenew.linksharing.*
 class User {
 
     String emailId;
@@ -57,7 +57,15 @@ class User {
 
     }
 
-  //  String getconfirmPassword() {
+    String toString(){
+        return getName()
+    }
+
+
+
+
+
+    //  String getconfirmPassword() {
     //   return this.password;
  //}
 

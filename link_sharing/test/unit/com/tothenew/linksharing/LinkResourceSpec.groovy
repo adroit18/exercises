@@ -1,6 +1,6 @@
 package com.tothenew.linksharing
 
-import com.tothenew.linksharing.Link_Visibility
+import com.tothenew.linksharing.*
 
 import grails.test.mixin.TestFor
 import spock.lang.Specification
@@ -38,5 +38,12 @@ class LinkResourceSpec extends Specification {
         3   | "http://grails.github.io/grails-doc/2.5.1/ref/Constraints/url.html" | true
 
 
+    }
+    void "TestingToString"(){
+        setup:
+        LinkResource linkResource=new LinkResource(url: "https://www.google.com")
+
+        expect:
+        linkResource.toString()=="https://www.google.com"
     }
 }
