@@ -4,7 +4,7 @@ class ApplicationFilters {
 
     def filters = {
 
-
+/*
         loginCheck(controller: '*',action:"*",controllerExclude:"login") {
             before = {
                if (!session.user) {
@@ -22,6 +22,28 @@ class ApplicationFilters {
             afterView = { Exception e ->
 
             }
-        }
+        }*/
     }
 }
+
+
+class SecurityFilters {
+    def filters =
+            {
+                loginCheck(controller: '*', action: '*')
+                        {
+                            before =
+                                    {
+                                        if (!session.user && !actionName.equals('login')) {
+                                            redirect(action: 'login')
+                                            return
+                                            false
+                                        }
+                                    }
+                        }
+            }
+}
+
+
+
+

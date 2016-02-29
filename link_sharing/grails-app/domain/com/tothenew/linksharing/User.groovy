@@ -11,7 +11,7 @@ class User {
     Boolean isActive;
     Boolean isAdmin;
     byte[] profilePic;
-    static transients = ['name']
+    static transients = ['name','subscribedTopics']
         transient  confirmPassword;
 
     Date lastUpdated;
@@ -61,19 +61,14 @@ class User {
         return getName()
     }
 
-    def getSubscribedTopics(){
+    List getSubscribedTopics(User user){
             List list=[];
-            User user=session.user
-            user.get(user.id).each{
+
+              user.getAll(user.id).each{
                 list = it.subscriptions.topic.name
             }
             return list.unique().sort();
         }
-
-
-
-
-
 
 
     //  String getconfirmPassword() {

@@ -4,7 +4,7 @@ class LoginController {
 
     def index() {
         if (session.user) {
-//            forward(controller: 'user', action: 'index');
+            render view: '/user/userIndex'
         }
         else
         {
@@ -20,12 +20,11 @@ class LoginController {
         if (user) {
             if (user.isActive == true) {
                 session.user = user;
-                //forward(controller: 'login', action: 'index');
-                render view: 'index'
-
+                forward(controller: 'login', action: 'index');
             } else {
-                flash.error = 'your account is not active';
-                render flash.error
+                flash.message = 'your account is not active';
+                session.user = user;
+                // render flash.error
                  forward(action:"index")
             }
         } else {

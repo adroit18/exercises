@@ -14,7 +14,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <asset:javascript src="application.js"/>
-    <asset:stylesheet src="bootstrap.min.js"/>
     <asset:stylesheet src="bootstrap.min.css"/>
     <asset:stylesheet src="bootstrap-theme.min.css"/>
     <asset:stylesheet src="glyphicons-halflings-regular.woff2"/>
@@ -31,7 +30,7 @@
     }
 
     #search-panel {
-        border: solid black;
+        border: solid blueviolet;
         border-radius: 8px;
     }
 
@@ -40,7 +39,7 @@
     }
 
     #search-panel {
-        border: solid black;
+        border: solid blueviolet;
         border-radius: 8px;
     }
 
@@ -58,7 +57,7 @@
     <div class="row">
         <div class="col-xs-12">
             <div class="panel panel-default">
-                <div class="panel-body" style="border:3px solid black;border-radius:8px">
+                <div class="panel-body" style="border:3px solid blueviolet;border-radius:8px">
                     <div class="col-xs-4">
                         <a href="#" style="font-size:28px">Link Sharing</a>
                     </div>

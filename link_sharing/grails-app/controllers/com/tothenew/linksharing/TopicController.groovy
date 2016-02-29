@@ -30,23 +30,24 @@ class TopicController {
     }
 
     def save(String name, String visibility) {
-
+        Topic topic
         if(name && visibility) {
          User createdBy = session.user;
-         Topic topic = new Topic(name: name, createdBy: createdBy, visibility: Link_Visibility.toenum(visibility))
+         topic = new Topic(name: name, createdBy: createdBy, visibility: Link_Visibility.toenum(visibility))
          if (topic.save()) {
              flash.message = "Topic saved Successfully"
 
          } else
              flash.message = "Topic could not be saved "
+
          }
         else
-         flash.message="none"
+        flash.message="none"
 
-        render flash.message
-        render  view:"../index";
-
-
+        //render flash.message
+        //render  view:"../index";
+         render(view: 'create', model: [topic: topic])
+      //  <g:renderErrors bean="${topic}"/>
     }
 
 

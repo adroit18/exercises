@@ -8,15 +8,15 @@
                 <h4 class="modal-title">Create Topic</h4>
             </div>
 
-            <div class="modal-body">
+            <div class="modal-body ">
 
-                <g:form  class="form-horizontal"  controller="topic" action="save">
-
+                <g:form class="form-horizontal" controller="topic" action="save">
                     <div class="form-group">
                         <label class="control-label col-xs-4">Name:</label>
 
                         <div class="col-xs-8">
-                            <input type="text" class="form-control" name="name" id="name" placeholder="Name">
+                            <input type="text" class="form-control " name="name" id="name" placeholder="Name">
+
                         </div>
                     </div>
 
@@ -54,7 +54,23 @@
 
             <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+
+            %{--<g:hasErrors bean="${topic}" field="name">--}%
+            %{--<g:eachError>--}%
+            %{--<g:message error="${it?.name}">--}%
+            %{--hello--}%
+            %{--</g:message>--}%
+
+            %{--</g:eachError>--}%
+
+            %{--</g:hasErrors>--}%
+
+
+            %{--<g:renderErrors bean="${topic}"/>--}%
+
             </div>
+
         </div>
 
     </div>

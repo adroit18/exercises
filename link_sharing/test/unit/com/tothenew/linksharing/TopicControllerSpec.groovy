@@ -73,4 +73,48 @@ class TopicControllerSpec extends Specification {
         co << new ResourcesSearchCo(topic_id: 1, visibility: "PUBLIC")
 
     }
+    void "Topic save"() {
+        given:
+        Topic.metaClass.'static'.save = {
+            return true
+        }
+
+        when:
+        controller.save(name, visibility)
+
+        then:
+        response.contentAsString == 'success'
+        flash.message == 'topic saved'
+
+        where:
+        name      | visibility
+        "abcd"    | "public"
+        "dfsbsdg" | 'private'
+    }
+
+    def "Topic unable to save"() {
+        given:
+        Topic.metaClass.'static'.save = {
+            return false
+        }
+
+        when:
+        controller.save(name, visibility)
+
+        then:
+        response.contentAsString != null
+        flash.error != null
+
+
+        where:
+        name      | visibility
+        "abcd"    | "public"
+        "dfsbsdg" | 'private'
+    }
+
+
+
+
+
+
 }
