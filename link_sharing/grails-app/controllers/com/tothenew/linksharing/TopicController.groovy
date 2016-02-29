@@ -38,7 +38,7 @@ class TopicController {
              flash.message = "Topic saved Successfully"
 
          } else
-             flash.message = "Topic could not be saved "
+             flash.message = "Topic could not be saved"
 
          }
         else

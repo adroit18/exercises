@@ -1,9 +1,8 @@
-package linksharing
+package com.tothenew.linksharing
 
 import grails.test.mixin.Mock
 import grails.test.mixin.TestFor
 import spock.lang.Specification
-import spock.util.mop.Use
 
 /**
  * See the API for {@link grails.test.mixin.web.ControllerUnitTestMixin} for usage instructions
@@ -23,29 +22,38 @@ class SubscriptionControllerSpec extends Specification {
         Subscription subscription = new Subscription()
 
         and:
-        Subscription.metaClass.'static'.load = { def id ->
-            return subscription
+        Subscription.metaClass.static.get = { long id ->
+            return null
         }
 
         when:
-        controller.delete()
+        controller.delete(ind)
+        println ind.getClass();
+
+
 
         then:
-        response.contentAsString == 'success'
+        response.contentAsString == ms
+
+        where:
+        ind | ms
+        2L   | "Subscription Not Found"
+
+
     }
 
     void "resource not found"() {
         setup:
-        Subscription.metaClass.'static'.load = { def id -> }
+        Subscription.metaClass.'static'.get = { def id -> }
 
         when:
         controller.delete()
 
         then:
-        response.contentAsString == 'not found'
+        response.contentAsString == 'Subscription Not Found'
     }
 
-    void "save"(){
+    void "save Topic Test case"(){
         setup:
         Topic topic=new Topic()
         topic.save(validate: false)
@@ -57,10 +65,10 @@ class SubscriptionControllerSpec extends Specification {
         session.user=user
 
         when:
-        controller.save(1)
+        controller.saveTopic(1)
 
         then:
-        response.contentAsString == 'success'
+        response.contentAsString == 'Subscription saved Successfully'
 
     }
 }

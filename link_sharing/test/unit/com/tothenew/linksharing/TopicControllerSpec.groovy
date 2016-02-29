@@ -73,6 +73,7 @@ class TopicControllerSpec extends Specification {
         co << new ResourcesSearchCo(topic_id: 1, visibility: "PUBLIC")
 
     }
+
     void "Topic save"() {
         given:
         Topic.metaClass.'static'.save = {
@@ -83,8 +84,8 @@ class TopicControllerSpec extends Specification {
         controller.save(name, visibility)
 
         then:
-        response.contentAsString == 'success'
-        flash.message == 'topic saved'
+       // response.contentAsString == 'Topic saved Successfully'
+        flash.message == 'Topic saved Successfully'
 
         where:
         name      | visibility
@@ -102,8 +103,8 @@ class TopicControllerSpec extends Specification {
         controller.save(name, visibility)
 
         then:
-        response.contentAsString != null
-        flash.error != null
+        //response.contentAsString == "Topic could not be saved"
+        flash.message == "Topic could not be saved"
 
 
         where:
