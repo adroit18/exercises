@@ -23,13 +23,14 @@ class ResourceRating {
 
         List<ResourceRating>resources=ResourceRating.createCriteria().list(max:5){
             projections{
-                groupProperty('resource')
+                createAlias("resource","r")
+                groupProperty("r.id")
+                property('r.url')
+                property('r.description')
                 avg('score','avgScore')
             }
-            'resource'{
-                property('id')
-                property('createdBy')
-            }
+            property('r.createdBy')
+            property('r.lastUpdated')
             order('avgScore','desc')
         }
 

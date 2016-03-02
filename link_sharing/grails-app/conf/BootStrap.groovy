@@ -14,8 +14,9 @@ class BootStrap {
         createResource();
 
         subscribeTopics();
-         createResourceRatings();
         createReadingItems();
+
+        createResourceRatings();
 
 
 
@@ -65,10 +66,9 @@ class BootStrap {
             User topicCreator = topic.createdBy
             (1..2).each {
                 DocumentResource documentResource = DocumentResource.findOrCreateWhere(filePath: 'home', description: topic.name, createdBy: topicCreator, topic: topic)
-
                 if (documentResource.save()) {
                     topic.resources?.add(documentResource)
-                    log.info('document resource add to Topic')
+                    log.info('document resource added to Topic')
                 } else {
 
                     log.error documentResource.errors

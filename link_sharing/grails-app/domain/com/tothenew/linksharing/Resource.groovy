@@ -8,7 +8,7 @@ abstract class Resource {
     Date dateCreated;
 
     static hasMany = [readingItems: ReadingItem, resourceRating: ResourceRating]
-        static belongsTo = [topic: Topic]
+    static belongsTo = [topic: Topic]
     static transients = ['ratingInfo'];
 
     static mapping = {
@@ -30,7 +30,7 @@ abstract class Resource {
         }
     }
 
- static RatingInfoVO getratingInfo() {
+    static RatingInfoVO getratingInfo() {
         List result = ResourceRating.createCriteria().get {
             projections {
                 count('id', 'totalVotes')
@@ -45,22 +45,38 @@ abstract class Resource {
     }
 
 
-static List recentShares() {
-    List recentShares = Resource.createCriteria().list(max:5,offset:0,sort:'lastUpdated',order:'desc') {
-        projections {
-            property('url')
-            property('description')
-            property('filePath')
-            property('createdBy')
-            property('topic')
-            //count();
-            property('lastUpdated')
+    static List recentShares() {
+        List recentSharesList, recentSharesList1;
+        recentSharesList = Resource.createCriteria().list(max: 5, offset: 0, sort: 'lastUpdated', order: 'desc') {
+            projections {
+                property('url')
+                property('description')
+                property('filePath')
+                property('createdBy')
+                property('topic')
+                //count();
+                property('lastUpdated')
+
+            }
+
+            Date date = new Date()
+            Calendar calendar = Calendar.getInstance();
+            recentSharesList.each {
+                calendar.setTimeInMillis((date.time - recentSharesList[it][5].time));
+                int time_HOUR = calendar.get(Calendar.HOUR);
+                int time_MINUTE = calendar.get(Calendar.MINUTE);
+                int time_SECOND = calendar.get(Calendar.SECOND);
+                recentSharesList1 = recentSharesList
+                if (time_HOUR > 1)
+                    recentSharesList1[it][6] = time_HOUR
+                else
+                    recentSharesList1[it][6] = time_MINUTE > 1 ? time_MINUTE : time_SECOND
+
+            }
 
         }
+        return recentSharesList
 
     }
-    return recentShares
-
-}
 
 }

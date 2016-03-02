@@ -2,68 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef4b0182-94fb-4290-84ce-a115ed008277" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UtilController.groovy" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/LoginController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/LoginController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_closure1.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_closure2.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure6.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResourceRatings_closure7.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResourceRatings_closure7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure10.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure9.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResource_closure4$_closure9.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResource_closure4$_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResource_closure4.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResource_closure4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3$_closure8.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3$_closure8.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5$_closure11.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5$_closure11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure1.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure4$_closure7.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure4$_closure7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure5$_closure8.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure5$_closure8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure5.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6$_closure9$_closure10.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6$_closure9$_closure10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6$_closure9.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6$_closure9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/UtilController.class" afterPath="$PROJECT_DIR$/target/classes/UtilController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ReadingItemController.class" afterPath="$PROJECT_DIR$/target/classes/ReadingItemController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure2.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure3.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure4.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getratingInfo_closure1.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getratingInfo_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure5.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_recentShares_closure2$_closure7.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_recentShares_closure2$_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_recentShares_closure2.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_recentShares_closure2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1$_closure4.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1$_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1$_closure3.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1$_closure3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Subscription$__clinit__closure2.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Subscription$__clinit__closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Subscription.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Subscription.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$__clinit__closure4.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$__clinit__closure4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_getSubscribedTopics_closure2$_closure5.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_getSubscribedTopics_closure2$_closure5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_getSubscribedTopics_closure2.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_getSubscribedTopics_closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.slcache/.index" afterPath="$PROJECT_DIR$/.slcache/.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/login/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp" afterPath="$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/subscription/_subscriptions.gsp" afterPath="$PROJECT_DIR$/grails-app/views/subscription/_subscriptions.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp" afterPath="$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/topic/_trendingTopics.gsp" afterPath="$PROJECT_DIR$/grails-app/views/topic/_trendingTopics.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/user/_details.gsp" afterPath="$PROJECT_DIR$/grails-app/views/user/_details.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/user/userIndex.gsp" afterPath="$PROJECT_DIR$/grails-app/views/user/userIndex.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ResourceControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ResourceControllerSpec.groovy" />
     </list>
     <ignored path="link_sharing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,7 +69,31 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_recentShares.gsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.38016528">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Resource.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.26785713">
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="79" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -152,9 +140,6 @@
         <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/TopicController.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicControllerSpec.groovy" />
         <option value="$PROJECT_DIR$/grails-app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/user/_details.gsp" />
@@ -163,17 +148,20 @@
         <option value="$PROJECT_DIR$/grails-app/views/subscription/_subscriptions.gsp" />
         <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ReadingItemController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/user/userIndex.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp" />
         <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/SubscriptionControllerSpec.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ReadingItemControllerSpec.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ResourceControllerSpec.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp" />
       </list>
     </option>
   </component>
@@ -339,6 +327,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -638,7 +640,7 @@
       <recent name="com.intellgrape.link_sharing" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LoginControllerSpec.Login index forward">
+  <component name="RunManager" selected="Grails.Grails:link_sharing">
     <configuration default="false" name="ResourceControllerSpec.delete successful" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1280,7 +1282,7 @@
       <workItem from="1456641055864" duration="616000" />
       <workItem from="1456641758951" duration="7905000" />
       <workItem from="1456720004109" duration="13804000" />
-      <workItem from="1456807641579" duration="41846000" />
+      <workItem from="1456807641579" duration="53837000" />
     </task>
     <servers />
   </component>
@@ -1289,6 +1291,9 @@
       <configuration name="LoginControllerSpec.Login index forward" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LoginControllerSpec_Login_index_forward - 2016.03.02 at 18h 26m 41s.xml">
+      <configuration name="LoginControllerSpec.Login index forward" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerSpec_Login_index_forward - 2016.03.02 at 18h 55m 17s.xml">
       <configuration name="LoginControllerSpec.Login index forward" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LoginControllerSpec_login_Handler_action - 2016.03.02 at 18h 17m 58s.xml">
@@ -1312,16 +1317,13 @@
     <history-entry file="LoginControllerSpec_login_Handler_should_set_error - 2016.03.02 at 18h 23m 07s.xml">
       <configuration name="LoginControllerSpec.login Handler should set error" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ResourceControllerSpec_delete_resource_not_found - 2016.03.02 at 18h 16m 38s.xml">
-      <configuration name="ResourceControllerSpec.delete resource not found" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350855000" />
+    <option name="totallyTimeSpent" value="362846000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="7" />
-    <editor active="false" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1336,8 +1338,8 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.51793724" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3187251" sideWeight="0.48590022" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28709677" sideWeight="0.49402392" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3187251" sideWeight="0.48590022" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28709677" sideWeight="0.49402392" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18548387" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1568,14 +1570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8163266">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1672,78 +1666,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/DocumentResource.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.056179777">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/user/userIndex.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63770795">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8133087">
-          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ReadingItemController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23893805">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.26785713">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41322315">
-          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37921348">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6151685">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1760,36 +1686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.81796116">
           <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5339806">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ReadingItem.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1264045">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1828,20 +1724,126 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ReadingItem.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.53571427">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92248064">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.7751938">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="43" />
           <folding>
-            <element signature="e#34#63#0" expanded="true" />
+            <element signature="e#34#63#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.084269665">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/DocumentResource.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.084269665">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.78932583">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45454547">
+          <caret line="25" column="84" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/user/userIndex.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7217631">
+          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="47" column="80" selection-start-line="47" selection-start-column="80" selection-end-line="47" selection-end-column="80" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3875969">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.26785713">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="79" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30825242">
+          <caret line="70" column="53" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38016528">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
       </provider>

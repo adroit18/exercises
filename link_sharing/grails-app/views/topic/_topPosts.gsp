@@ -23,12 +23,12 @@
         </div>
 
         <div class="col-xs-10">
-            <div>${resource.createdBy}<span class="text-muted">@uday 21 july 2014</span>
+            <div>${resource[4]}<span class="text-muted">@${resource[4]} ${resource[5]}</span>
 
-                <div class="pull-right"><a href="https://${resource.url}">${resource.url}</a></div>
+                <div class="pull-right"><a href="https://${resource[1]}">${resource[1]}</a></div>
 
                 <p>
-                    ${resource.description}
+                    ${resource[2]}
                 </p>
 
                 <i class="fa fa-facebook-official"></i>

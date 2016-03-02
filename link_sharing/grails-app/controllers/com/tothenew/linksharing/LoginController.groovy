@@ -14,11 +14,11 @@ class LoginController {
             render view: '/user/userIndex', model: [subscriptionList: subscriptionList,userDetails:userDetails,trendingTopicsList:trendingTopicsList,recentShares:recentShares]
 
         } else {
-            List<Long> resourceIds = ResourceRating.getTopPosts().collect { it[2] };
-            List<Resource> resourceList = Resource.getAll(resourceIds)
-
+            List resourceList = ResourceRating.getTopPosts()//.collect { it[2] };
+            //List<Resource> resourceList = Resource.getAll(resourceIds)
+            List recentShares=LinkResource.recentShares()
             flash.message="Login Unsuccessfull"
-            render view: 'index', model: [resourceList: resourceList]
+            render view: 'index', model: [resourceList: resourceList,recentShares:recentShares]
         }
     }
 
