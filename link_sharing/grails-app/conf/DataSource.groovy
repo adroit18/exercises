@@ -1,6 +1,6 @@
 dataSource {
     pooled = true
-    jmxExport = true
+  //  jmxExport = true
     driverClassName = "com.mysql.jdbc.Driver"
     username = "root"
     password = "root"
@@ -19,8 +19,6 @@ hibernate {
 environments {
     development {
         dataSource {
-
-
             dbCreate = "update" // one of 'create', 'create-drop', 'update', 'validate', ''
             url = "jdbc:mysql://localhost:3306/linksharing"
         }

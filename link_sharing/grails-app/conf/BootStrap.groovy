@@ -6,15 +6,16 @@ import com.tothenew.linksharing.*
 class BootStrap {
 
     def grailsApplication
-    def init = { servletContext ->
+    def init = {
 
         println "External file is included " + grailsApplication.config.myname
         List<User> users = createUsers()
         createTopics();
-        createResources();
+        createResource();
+
         subscribeTopics();
+         createResourceRatings();
         createReadingItems();
-        createResourceRatings();
 
 
 
@@ -59,32 +60,34 @@ class BootStrap {
         }
     }
 
-    void createResources() {
-        Topic.getAll().each {
-            if (it?.resources?.size() == 0) {
-                (1..2).each { index ->
-                    LinkResource linkresource = new LinkResource(url: "www.google.com", description: it.name, createdBy: it.createdBy, topic: it);
-                    if (linkresource.save(failOnError: true)) {
-                        it?.resources?.add();
-                        log.info("Created Link Resource ${linkresource}")
-                    } else
-                        log.error("Could not create Link Resource ${linkresource} ")
+    void createResource() {
+        Topic.getAll().each { topic ->
+            User topicCreator = topic.createdBy
+            (1..2).each {
+                DocumentResource documentResource = DocumentResource.findOrCreateWhere(filePath: 'home', description: topic.name, createdBy: topicCreator, topic: topic)
 
-                }
-                (1..2).each { index ->
-                    DocumentResource documentresource = new DocumentResource(filePath: "~/home", description: it.name, createdBy: it.createdBy, topic: it)
-                    if (documentresource.save(failOnError: true)) {
-                        it?.resources?.add();
-                        log.info("Created Document Resource ${documentresource}")
-                    } else
-                        log.error("Could not create Document Resource ${documentresource}")
-                }
+                if (documentResource.save()) {
+                    topic.resources?.add(documentResource)
+                    log.info('document resource add to Topic')
+                } else {
 
+                    log.error documentResource.errors
+                }
             }
-
-
+            (1..2).each {
+                LinkResource linkResource =LinkResource.findOrCreateWhere(url: 'https://www.google.com', description: topic.name, createdBy: topicCreator, topic: topic)
+                if (linkResource.save()) {
+                    topic.resources?.add(linkResource)
+                    log.info('link resource added to topic')
+                } else {
+                    log.error linkResource.errors
+                }
+            }
         }
+
     }
+
+
 
     void subscribeTopics() {
         List<Topic> topics = Topic.getAll()
@@ -107,6 +110,7 @@ class BootStrap {
         Resource resource
         Subscription.getAll().each {
             resource = Resource.findByTopic(it.topic)
+            println resource
             if ((resource.createdBy != it.user) && (!ReadingItem.findByUserAndResource(it.user, resource))) {
                 readingItem = new ReadingItem(user: it.user, resource: resource, isRead: false)
                 if (readingItem.save()) {

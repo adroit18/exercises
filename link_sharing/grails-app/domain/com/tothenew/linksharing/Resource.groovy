@@ -12,7 +12,7 @@ abstract class Resource {
     static transients = ['ratingInfo'];
 
     static mapping = {
-        //tablePerHierarchy( false)
+        tablePerHierarchy(false)
         description(type: 'text')
     }
 
@@ -30,7 +30,7 @@ abstract class Resource {
         }
     }
 
-    RatingInfoVO getratingInfo() {
+ static RatingInfoVO getratingInfo() {
         List result = ResourceRating.createCriteria().get {
             projections {
                 count('id', 'totalVotes')
@@ -43,4 +43,24 @@ abstract class Resource {
 
         new RatingInfoVO(totalVotes: result[0], totalScore: result[1], averageScore: result[2])
     }
+
+
+static List recentShares() {
+    List recentShares = Resource.createCriteria().list(max:5,offset:0,sort:'lastUpdated',order:'desc') {
+        projections {
+            property('url')
+            property('description')
+            property('filePath')
+            property('createdBy')
+            property('topic')
+            //count();
+            property('lastUpdated')
+
+        }
+
+    }
+    return recentShares
+
+}
+
 }

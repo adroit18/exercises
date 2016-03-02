@@ -4,28 +4,27 @@
         <div class="pull-right">
             <a href="#" style="text-decoration:underline">View ALL</a></div></div>
 
-    <%
-        User user = new User()
-        List list = user.getSubscribedTopics(session.user)
-        list.each {
 
-    %>
-    <div class="panel-body">
+    <g:each in="${subscriptionList}" var="subscription">
 
-        <div class="col-xs-2">
-            <span class="glyphicon glyphicon-user" style="font-size:60px;border:solid black;"></span>
+        <div class="panel-body">
+
+             <div class="col-xs-2">
+                 <span class="glyphicon glyphicon-user" style="font-size:60px;border:solid black;"></span>
+             </div>
+
+             <div class="col-xs-10 pull-left"><a href="#" class="col-xs-10"
+                                                 style="text:decoration:underline">${subscription[1]}</a></br></br>
+        <span class="col-xs-6 text-muted">@${subscription[2]}</span>
+        <span class="col-xs-4" style="padding-left:1px">Subscriptions</span>
+        <span class="col-xs-2" style="padding-left:1px">Topics</span><br>
+
+        <span class="col-xs-6" style="color:blue;"><a href="#" style="text-decoration:underline">Unsubscribe</a>
+        </span>
+        <span class="col-xs-4" style="color:blue;padding-left:1px">${subscription[3]}</span>
+        <span class="col-xs-2" style="color:blue;padding-left:1px">50</span>
         </div>
 
-        <div class="col-xs-10 pull-left"><a href="#" class="col-xs-8"
-                                            style="text:decoration:underline">Grails</a></br></br>
-            <span class="col-xs-4 text-muted">@Uday</span>
-            <span class="col-xs-4" style="padding-left:1px">Subscriptions</span>
-            <span class="col-xs-4" style="padding-left:1px">Topics</span><br>
-            <span class="col-xs-4" style="color:blue;"><a href="#" style="text-decoration:underline">Unsubscribe</a>
-            </span>
-            <span class="col-xs-4" style="color:blue;padding-left:1px">50</span>
-            <span class="col-xs-4" style="color:blue;padding-left:1px">50</span>
-        </div>
 
         <div class="col-xs-4"><select class="pull-right form-control">
             <option>Public</option>
@@ -50,13 +49,10 @@
             <div class="glyphicon glyphicon-trash"></div>
 
         </div>
-    </br></br></br></br></br></br>
+        </br></br></br></br></br></br>
 
         <hr style="border-width:3px;padding:0px;border-color:blue">
-    </div>
+        </div>
 
-    <%
-        }
-    %>
-
+    </g:each>
 </div>

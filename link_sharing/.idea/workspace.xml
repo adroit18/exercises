@@ -2,73 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef4b0182-94fb-4290-84ce-a115ed008277" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/UtilController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Subscription$__clinit__closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$_getSubscribedTopics_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionControllerSpec$__spock_feature_0_0_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionControllerSpec$__spock_feature_0_1_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionControllerSpec$__spock_feature_0_2_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicControllerSpec$__spock_feature_0_3_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicControllerSpec$__spock_feature_0_4_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hs_err_pid29829.log" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UtilController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UtilControllerSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/UtilControllerSpec.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/UtilSpec.groovy" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceRating$__clinit__closure1.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceRating$__clinit__closure2.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure2.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure3.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure3$_closure4.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure4$_closure5.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure3.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User$__clinit__closure4.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UserController$_toppost_closure1$_closure2.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1$_closure3.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UserController$_toppost_closure1$_closure3.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1$_closure4.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UserController$_toppost_closure1.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/JQueryResourceTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/JQueryResourceTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/JQueryTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/JQueryTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/asset/pipeline/grails/AssetMethodTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/asset/pipeline/grails/AssetMethodTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/asset/pipeline/grails/AssetsTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/asset/pipeline/grails/AssetsTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/grails/plugin/cache/CacheTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/grails/plugin/cache/CacheTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/grails/plugin/databasemigration/DbdocController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/grails/plugin/databasemigration/DbdocController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/ConsoleController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing-grailsPlugins/org/grails/plugins/console/ConsoleController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/DocumentResource.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/DocumentResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/FirstTagLib.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/FirstTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/LinkResource.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/LinkResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/LoginController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/LoginController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ReadingItem.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ReadingItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Resource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceRating.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/ResourceRating.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Seriousness.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Seriousness.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Subscription.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Subscription.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/SubscriptionController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/SubscriptionController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/Topic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/TopicController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/TopicController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UserController.class" afterPath="$PROJECT_DIR$/out/production/link_sharing/com/tothenew/linksharing/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/intellgrape/link_sharing/FIRSTTagLibSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/intellgrape/link_sharing/FIRSTTagLibSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/intellgrape/link_sharing/FirstTagLibSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/intellgrape/link_sharing/FirstTagLibSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/DocumentResourceSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/DocumentResourceSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/FirstTagLibSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/FirstTagLibSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/LinkResourceSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/LinkResourceSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/LoginControllerSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/LoginControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ReadingItemSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ReadingItemSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ResourceControllerSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ResourceControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ResourceSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/ResourceSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionControllerSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/SubscriptionSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicControllerSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/TopicSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UserControllerSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UserControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UserSpec.class" afterPath="$PROJECT_DIR$/out/test/link_sharing/com/tothenew/linksharing/UserSpec.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UtilController.groovy" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_closure1.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_closure2.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure6.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createReadingItems_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResourceRatings_closure7.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResourceRatings_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure10.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure9.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4$_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createResources_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3$_closure8.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3$_closure8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_createTopics_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5$_closure11.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5$_closure11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap$_subscribeTopics_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BootStrap.class" afterPath="$PROJECT_DIR$/target/classes/BootStrap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure1.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure4$_closure7.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure4$_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure5$_closure8.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure5$_closure8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure5.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6$_closure9$_closure10.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6$_closure9$_closure10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6$_closure9.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6$_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3$_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3.class" afterPath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/UtilController.class" afterPath="$PROJECT_DIR$/target/classes/UtilController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/SubscriptionController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/LoginController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure2.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure3.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure4.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$__clinit__closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getratingInfo_closure1.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource$_getratingInfo_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Resource.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1$_closure4.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1$_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating$_getTopPosts_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/ResourceRating.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Subscription$__clinit__closure2.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Subscription$__clinit__closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Subscription.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Subscription.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/Topic.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$__clinit__closure4.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$__clinit__closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_getSubscribedTopics_closure2$_closure5.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_getSubscribedTopics_closure2$_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_getSubscribedTopics_closure2.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User$_getSubscribedTopics_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController.class" afterPath="$PROJECT_DIR$/target/classes/com/tothenew/linksharing/UserController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.slcache/.index" afterPath="$PROJECT_DIR$/.slcache/.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/TopicController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/TopicController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/login/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp" afterPath="$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/subscription/_subscriptions.gsp" afterPath="$PROJECT_DIR$/grails-app/views/subscription/_subscriptions.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp" afterPath="$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/topic/_trendingTopics.gsp" afterPath="$PROJECT_DIR$/grails-app/views/topic/_trendingTopics.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/user/_details.gsp" afterPath="$PROJECT_DIR$/grails-app/views/user/_details.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/user/userIndex.gsp" afterPath="$PROJECT_DIR$/grails-app/views/user/userIndex.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ResourceControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ResourceControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/SubscriptionControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/SubscriptionControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicControllerSpec.groovy" />
     </list>
     <ignored path="link_sharing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,6 +78,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/link_sharing$Grails_link_sharing.coverage" NAME="Grails:link_sharing Coverage Results" MODIFIED="1456850258544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -107,50 +105,7 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TopicControllerSpec.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicControllerSpec.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7535885">
-              <caret line="105" column="10" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TopicController.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/TopicController.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.92">
-              <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResourceControllerSpec.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ResourceControllerSpec.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.24">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-              <folding>
-                <element signature="e#34#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResourceController.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.88">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -168,21 +123,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/LinkResource.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/DocumentResource.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy" />
-        <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicSpec.groovy" />
-        <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/DocumentResourceSpec.groovy" />
-        <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LinkResourceSpec.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/intellgrape/link_sharing/FIRSTTagLibSpec.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/SubscriptionSpec.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/intellgrape/link_sharing/FirstTagLibSpec.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/UserSpec.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/UserControllerSpec.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" />
         <option value="$PROJECT_DIR$/src/groovy/Seriousness.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/topic/_email.gsp" />
         <option value="$PROJECT_DIR$/application.properties" />
@@ -196,29 +142,38 @@
         <option value="$PROJECT_DIR$/grails-app/views/topic/_show.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/resource/_show.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/user/_login.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/subscription/_subscriptions.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/user/_details.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/topic/_trendingTopics.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/user/userIndex.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/user/_register.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/com/tothenew/linksharing/ApplicationFilters.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Util.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UtilController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/util/index.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp" />
         <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/SubscriptionController.groovy" />
-        <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/SubscriptionControllerSpec.groovy" />
-        <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy" />
-        <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ResourceControllerSpec.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/TopicController.groovy" />
         <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicControllerSpec.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/user/_details.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/topic/_trendingTopics.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/subscription/_subscriptions.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ReadingItemController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/user/userIndex.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+        <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/SubscriptionControllerSpec.groovy" />
+        <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ReadingItemControllerSpec.groovy" />
+        <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ResourceControllerSpec.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy" />
+        <option value="$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy" />
       </list>
     </option>
   </component>
@@ -253,10 +208,13 @@
           <State>
             <id>Groovy</id>
           </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>GroovyAssignabilityCheck</id>
+            <id>GrUnresolvedAccess</id>
           </State>
         </selected-state>
       </profile-state>
@@ -287,6 +245,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -394,6 +355,200 @@
               <option name="myItemId" value="grails-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subscription" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linkResource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="documentResource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -439,11 +594,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="link_sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -454,7 +624,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/dfnlkasndflknasldkfnaslkdnflaksndflkanflknfla" />
     <property name="SearchEverywhereHistoryKey" value="buil&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/BuildConfig.groovy&#10;b&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/BootStrap.groovy&#10;appl&#9;FILE&#9;file:///home/deepak/projects/link_sharing/application.properties&#10;url&#9;null&#9;null&#10;boo&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/BootStrap.groovy&#10;da&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/DataSource.groovy&#10;confi&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/Config.groovy&#10;con&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/BuildConfig.groovy&#10;conf&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/Config.groovy&#10;bui&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/BuildConfig.groovy&#10;boot&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/BootStrap.groovy&#10;config.g&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/Config.groovy&#10;config&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/Config.groovy&#10;VISIBILI&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/controllers/com/intellgrape/link_sharing/Visibility.groovy&#10;cong&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/Config.groovy&#10;user.groovy&#9;FILE&#9;file:///home/deepak/projects/link_sharing/test/unit/com/intellgrape/link_sharing/UserSpec.groovy&#10;user&#9;FILE&#9;file:///home/deepak/projects/link_sharing/test/unit/com/intellgrape/link_sharing/UserSpec.groovy&#10;c&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/Config.groovy&#10;ThreadPoolExecutor &#9;null&#9;null&#10;config.&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/Config.groovy&#10;proper&#9;FILE&#9;file:///home/deepak/projects/link_sharing/application.properties&#10;bootstrap&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/BootStrap.groovy&#10;bootstrap.groov&#9;FILE&#9;file:///home/deepak/projects/link_sharing/grails-app/conf/BootStrap.groovy" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
@@ -468,11 +638,11 @@
       <recent name="com.intellgrape.link_sharing" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TopicControllerSpec.Topic unable to save">
-    <configuration default="false" name="ResourceControllerSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LoginControllerSpec.Login index forward">
+    <configuration default="false" name="ResourceControllerSpec.delete successful" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.tothenew.linksharing.*" />
+          <option name="PATTERN" value="linksharing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -480,34 +650,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.tothenew.linksharing" />
-      <option name="MAIN_CLASS_NAME" value="com.tothenew.linksharing.ResourceControllerSpec" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="ResourceControllerSpec.delete tested" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.tothenew.linksharing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="link_sharing" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.tothenew.linksharing" />
-      <option name="MAIN_CLASS_NAME" value="com.tothenew.linksharing.ResourceControllerSpec" />
-      <option name="METHOD_NAME" value="delete tested" />
+      <option name="MAIN_CLASS_NAME" value="linksharing.ResourceControllerSpec" />
+      <option name="METHOD_NAME" value="delete successful" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -521,7 +665,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="TopicControllerSpec.Topic save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="LoginControllerSpec.Login index forward" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.tothenew.linksharing.*" />
@@ -532,8 +676,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.tothenew.linksharing" />
-      <option name="MAIN_CLASS_NAME" value="com.tothenew.linksharing.TopicControllerSpec" />
-      <option name="METHOD_NAME" value="Topic save" />
+      <option name="MAIN_CLASS_NAME" value="com.tothenew.linksharing.LoginControllerSpec" />
+      <option name="METHOD_NAME" value="Login index forward" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -547,10 +691,10 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="ResourceControllerSpec.testing delete of link resource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ResourceControllerSpec.delete resource not found" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.tothenew.linksharing.*" />
+          <option name="PATTERN" value="linksharing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -558,8 +702,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.tothenew.linksharing" />
-      <option name="MAIN_CLASS_NAME" value="com.tothenew.linksharing.ResourceControllerSpec" />
-      <option name="METHOD_NAME" value="testing delete of link resource" />
+      <option name="MAIN_CLASS_NAME" value="linksharing.ResourceControllerSpec" />
+      <option name="METHOD_NAME" value="delete resource not found" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -573,7 +717,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="TopicControllerSpec.Topic unable to save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="LoginControllerSpec.login Handler action" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.tothenew.linksharing.*" />
@@ -584,8 +728,34 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.tothenew.linksharing" />
-      <option name="MAIN_CLASS_NAME" value="com.tothenew.linksharing.TopicControllerSpec" />
-      <option name="METHOD_NAME" value="Topic unable to save" />
+      <option name="MAIN_CLASS_NAME" value="com.tothenew.linksharing.LoginControllerSpec" />
+      <option name="METHOD_NAME" value="login Handler action" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="LoginControllerSpec.login Handler should set error" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tothenew.linksharing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="link_sharing" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tothenew.linksharing" />
+      <option name="MAIN_CLASS_NAME" value="com.tothenew.linksharing.LoginControllerSpec" />
+      <option name="METHOD_NAME" value="login Handler should set error" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1042,19 +1212,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Grails.Grails:link_sharing" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ResourceControllerSpec" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ResourceControllerSpec.delete tested" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TopicControllerSpec.Topic save" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ResourceControllerSpec.testing delete of link resource" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.TopicControllerSpec.Topic unable to save" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ResourceControllerSpec.delete successful" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LoginControllerSpec.Login index forward" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ResourceControllerSpec.delete resource not found" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.LoginControllerSpec.login Handler action" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.LoginControllerSpec.login Handler should set error" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TopicControllerSpec.Topic unable to save" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ResourceControllerSpec.testing delete of link resource" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TopicControllerSpec.Topic save" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ResourceControllerSpec" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ResourceControllerSpec.delete tested" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LoginControllerSpec.Login index forward" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LoginControllerSpec.login Handler should set error" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LoginControllerSpec.login Handler action" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ResourceControllerSpec.delete resource not found" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ResourceControllerSpec.delete successful" />
       </list>
     </recent_temporary>
   </component>
@@ -1109,80 +1279,82 @@
       <workItem from="1456635438932" duration="1893000" />
       <workItem from="1456641055864" duration="616000" />
       <workItem from="1456641758951" duration="7905000" />
-      <workItem from="1456720004109" duration="12683000" />
+      <workItem from="1456720004109" duration="13804000" />
+      <workItem from="1456807641579" duration="41846000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ResourceControllerSpec_testing_delete_of_link_resource - 2016.02.29 at 17h 06m 56s.xml">
-      <configuration name="ResourceControllerSpec.testing delete of link resource" configurationId="JUnit" />
+    <history-entry file="LoginControllerSpec_Login_index_forward - 2016.03.02 at 18h 25m 48s.xml">
+      <configuration name="LoginControllerSpec.Login index forward" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ResourceControllerSpec_testing_delete_of_link_resource - 2016.02.29 at 17h 10m 13s.xml">
-      <configuration name="ResourceControllerSpec.testing delete of link resource" configurationId="JUnit" />
+    <history-entry file="LoginControllerSpec_Login_index_forward - 2016.03.02 at 18h 26m 41s.xml">
+      <configuration name="LoginControllerSpec.Login index forward" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ResourceControllerSpec_testing_delete_of_link_resource - 2016.02.29 at 17h 12m 02s.xml">
-      <configuration name="ResourceControllerSpec.testing delete of link resource" configurationId="JUnit" />
+    <history-entry file="LoginControllerSpec_login_Handler_action - 2016.03.02 at 18h 17m 58s.xml">
+      <configuration name="LoginControllerSpec.login Handler action" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ResourceControllerSpec_testing_delete_of_link_resource - 2016.02.29 at 17h 13m 05s.xml">
-      <configuration name="ResourceControllerSpec.testing delete of link resource" configurationId="JUnit" />
+    <history-entry file="LoginControllerSpec_login_Handler_action - 2016.03.02 at 18h 20m 35s.xml">
+      <configuration name="LoginControllerSpec.login Handler action" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TopicControllerSpec_Topic_save - 2016.02.29 at 17h 06m 43s.xml">
-      <configuration name="TopicControllerSpec.Topic save" configurationId="JUnit" />
+    <history-entry file="LoginControllerSpec_login_Handler_action - 2016.03.02 at 18h 20m 53s.xml">
+      <configuration name="LoginControllerSpec.login Handler action" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TopicControllerSpec_Topic_unable_to_save - 2016.02.29 at 17h 14m 33s.xml">
-      <configuration name="TopicControllerSpec.Topic unable to save" configurationId="JUnit" />
+    <history-entry file="LoginControllerSpec_login_Handler_action - 2016.03.02 at 18h 21m 36s.xml">
+      <configuration name="LoginControllerSpec.login Handler action" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TopicControllerSpec_Topic_unable_to_save - 2016.02.29 at 17h 16m 02s.xml">
-      <configuration name="TopicControllerSpec.Topic unable to save" configurationId="JUnit" />
+    <history-entry file="LoginControllerSpec_login_Handler_action - 2016.03.02 at 18h 22m 08s.xml">
+      <configuration name="LoginControllerSpec.login Handler action" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TopicControllerSpec_Topic_unable_to_save - 2016.02.29 at 17h 16m 09s.xml">
-      <configuration name="TopicControllerSpec.Topic unable to save" configurationId="JUnit" />
+    <history-entry file="LoginControllerSpec_login_Handler_should_set_error - 2016.03.02 at 18h 22m 30s.xml">
+      <configuration name="LoginControllerSpec.login Handler should set error" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TopicControllerSpec_Topic_unable_to_save - 2016.02.29 at 17h 16m 43s.xml">
-      <configuration name="TopicControllerSpec.Topic unable to save" configurationId="JUnit" />
+    <history-entry file="LoginControllerSpec_login_Handler_should_set_error - 2016.03.02 at 18h 23m 07s.xml">
+      <configuration name="LoginControllerSpec.login Handler should set error" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TopicControllerSpec_Topic_unable_to_save - 2016.02.29 at 17h 17m 43s.xml">
-      <configuration name="TopicControllerSpec.Topic unable to save" configurationId="JUnit" />
+    <history-entry file="ResourceControllerSpec_delete_resource_not_found - 2016.03.02 at 18h 16m 38s.xml">
+      <configuration name="ResourceControllerSpec.delete resource not found" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307888000" />
+    <option name="totallyTimeSpent" value="350855000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="7" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25338647" sideWeight="0.510101" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18701701" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.4820628" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33384854" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35857806" sideWeight="0.50278884" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.49721116" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.51793724" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3187251" sideWeight="0.48590022" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28709677" sideWeight="0.49402392" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18548387" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.49103138" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33384854" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29003984" sideWeight="0.5140998" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.49721116" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31792828" sideWeight="0.48590022" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26893353" sideWeight="0.49402392" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1217,11 +1389,16 @@
           <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Topic.groovy</url>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="64" />
+      <option name="time" value="65" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1230,76 +1407,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/grails-app/assets/javascripts/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.033936653">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67873305">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/user/_forgotPassword.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06507592">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/topic/_create.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.097613886">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/topic/_email.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.0408163">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/DocumentResource.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.066079296">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1317,50 +1428,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08264463">
-          <caret line="2" column="82" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/topic/_trendingTopics.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/user/_details.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.038071066">
-          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/subscription/_subscriptions.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73350257">
-          <caret line="54" column="65" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/user/_login.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/user/userIndex.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1390,14 +1461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UtilController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9282297">
-          <caret line="30" column="3" selection-start-line="0" selection-start-column="2" selection-end-line="30" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/util/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.3705584">
@@ -1406,107 +1469,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.625">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="70" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.2040815">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="40" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="112" column="3" selection-start-line="112" selection-start-column="3" selection-end-line="112" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="115" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2857143">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/documentResource/_create.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.428571">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.428571">
-          <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3579952">
-          <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5813953">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1527,51 +1493,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/SubscriptionController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9282297">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/LinkResource.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03875969">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5736434">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/DocumentResourceSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.09090909">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0167465">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding>
-            <element signature="e#34#66#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1591,20 +1517,192 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/SubscriptionControllerSpec.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0119617">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="33" />
-          <folding>
-            <element signature="e#34#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.sdkman/candidates/grails/2.5.1/src/grails-datastore-gorm-3.1.5.RELEASE-sources.jar!/org/grails/datastore/gorm/GormInstanceApi.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33182845">
           <caret line="250" column="9" selection-start-line="250" selection-start-column="9" selection-end-line="250" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35413152">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicControllerSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4679054">
+          <caret line="105" column="10" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/grails/2.5.1/src/grails-datastore-gorm-3.1.5.RELEASE-sources.jar!/org/grails/datastore/gorm/GormStaticApi.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2596154">
+          <caret line="293" column="42" selection-start-line="293" selection-start-column="34" selection-end-line="293" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/grails/2.5.1/dist/grails-web-common-2.5.1-sources.jar!/org/codehaus/groovy/grails/plugins/web/api/CommonWebApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33173078">
+          <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+          <folding>
+            <element signature="e#4301#4302#0" expanded="false" />
+            <element signature="e#4363#4364#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/topic/_topPosts.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.8163266">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="104" column="21" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/TopicController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03836317">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/LinkResource.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.083333336">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/user/_details.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40871936">
+          <caret line="10" column="169" selection-start-line="10" selection-start-column="169" selection-end-line="10" selection-end-column="169" />
+          <folding>
+            <marker date="1456911872932" expanded="true" signature="819:827" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/User.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75">
+          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/topic/_trendingTopics.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7933884">
+          <caret line="21" column="87" selection-start-line="21" selection-start-column="87" selection-end-line="21" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/SubscriptionController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04134367">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subscription/_subscriptions.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25619835">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54946995">
+          <caret line="111" column="13" selection-start-line="111" selection-start-column="10" selection-end-line="111" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/UserController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.2">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/DocumentResource.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.056179777">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/user/userIndex.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63770795">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8133087">
+          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ReadingItemController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23893805">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1614,42 +1712,136 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.53571427">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state vertical-scroll-proportion="-0.26785713">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/resource/_recentShares.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41322315">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Subscription.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37921348">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ResourceRating.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6151685">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81796116">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5339806">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/Resource.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/tothenew/linksharing/ReadingItem.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1264045">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/SubscriptionControllerSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ReadingItemControllerSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34974092">
+          <caret line="9" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/ResourceController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.88">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="-4.8">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/ResourceControllerSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.24">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.069767445">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
-            <element signature="e#34#57#0" expanded="true" />
+            <element signature="e#21#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/TopicController.groovy">
+    <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/LoginControllerSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.92">
-          <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
-          <folding />
+        <state vertical-scroll-proportion="0.92248064">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="e#34#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/unit/com/tothenew/linksharing/TopicControllerSpec.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/tothenew/linksharing/LoginController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7535885">
-          <caret line="105" column="10" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.3875969">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="43" />
           <folding />
         </state>
       </provider>

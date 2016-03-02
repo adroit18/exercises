@@ -4,14 +4,14 @@ class ResourceController {
 
     def index() {}
 
-    def deleteResource(Long id) {
-
-        Resource resource = Resource.get(id);
-        if (resource.delete(flush: true))
-        { render "Resource Deleted"     }
-        else
-            render "Resource not found"
-
+    def delete(){
+        Resource resource=Resource.load(params.id)
+        if(resource){
+            resource.delete(flush: true)
+        }
+        else{
+            render 'resource not found'
+        }
     }
 
     def search(ResourcesSearchCo co) {

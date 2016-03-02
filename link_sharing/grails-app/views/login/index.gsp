@@ -46,7 +46,7 @@ Link Sharing
 <div class="container">
     <div class="col-xs-7">
         <g:render template="/resource/recentShares"/>
-        <g:render template="/topic/topPosts"/>
+        <g:render template="/topic/topPosts" model="[resourceList:resourceList]"/>
 
     </div>
 

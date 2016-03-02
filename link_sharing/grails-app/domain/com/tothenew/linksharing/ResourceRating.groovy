@@ -19,7 +19,7 @@ class ResourceRating {
 
     }
 
-    def getTopPosts(){
+    static List getTopPosts(){
 
         List<ResourceRating>resources=ResourceRating.createCriteria().list(max:5){
             projections{
@@ -28,6 +28,7 @@ class ResourceRating {
             }
             'resource'{
                 property('id')
+                property('createdBy')
             }
             order('avgScore','desc')
         }

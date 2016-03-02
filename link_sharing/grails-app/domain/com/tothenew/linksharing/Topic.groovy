@@ -27,20 +27,21 @@ class Topic {
     static List<TopicVO> getTrendingTopics() {
         List resources = Resource.createCriteria().list {
             projections {
-                        createAlias('topic', 't')
-                        groupProperty('t.id')
-                        property('t.name')
-                        property('t.visibility')
-                        property('createdBy')
-                        count();
-                    }
-                }
-        List list=resources.sort{-it[4]}
+                createAlias('topic', 't')
+                groupProperty('t.id')
+                property('t.name')
+                property('t.visibility')
+                property('createdBy')
+                count();
+            }
+        }
+        List list = resources.sort { -it[4] }
         List<TopicVO> vos = []
         list.each {
-            vos << new TopicVO(id:it[0],name:it[1],visibility:it[2],createdBy:it[3],count:it[4])
+            vos << new TopicVO(id: it[0], name: it[1], visibility: it[2], createdBy: it[3], count: it[4])
         }
         return vos[0..4];
+        println vos[0..4]
     }
 
 

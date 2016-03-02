@@ -6,13 +6,13 @@ class User {
     String emailId;
     String firstName;
     String lastName;
-     String username;
+    String username;
     String password;
     Boolean isActive;
     Boolean isAdmin;
     byte[] profilePic;
     static transients = ['name','subscribedTopics']
-        transient  confirmPassword;
+    transient  confirmPassword;
 
     Date lastUpdated;
     Date dateCreated;
@@ -61,18 +61,53 @@ class User {
         return getName()
     }
 
-    List getSubscribedTopics(User user){
-            List list=[];
 
-              user.getAll(user.id).each{
-                list = it.subscriptions.topic.name
+
+    static List<TopicVO> getTrendingTopics() {
+        List resources = Resource.createCriteria().list {
+            projections {
+                createAlias('topic', 't')
+                groupProperty('t.id')
+                property('t.name')
+                property('t.visibility')
+                property('createdBy')
+                count();
             }
-            return list.unique().sort();
         }
+        List list=resources.sort{-it[4]}
+        List<TopicVO> vos = []
+        list.each {
+            vos << new TopicVO(id:it[0],name:it[1],visibility:it[2],createdBy:it[3],count:it[4])
+        }
+        return vos[0..4];
+    }
+
+    static List userTotalSubscriptionsAndTopics(User user1) {
+        List userDetails1 = Subscription.createCriteria().listDistinct {
+            projections {
+                count()
+            }
+            eq("user.id", user1.id)
+        }
+        List userDetails2 = Topic.createCriteria().listDistinct {
+            projections {
+                count()
+            }
+            eq("createdBy", user1)
+        }
+       List userDetails=userDetails1+userDetails2
+        println userDetails
+        return userDetails;
+
+    }
+
+
+
+
 
 
     //  String getconfirmPassword() {
     //   return this.password;
- //}
+    //}
 
 }

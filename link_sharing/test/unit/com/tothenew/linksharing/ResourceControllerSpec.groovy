@@ -1,6 +1,6 @@
-package com.tothenew.linksharing
+package linksharing
 
-import grails.rest.Link
+import com.tothenew.linksharing.*;
 import grails.test.mixin.Mock
 import grails.test.mixin.TestFor
 import spock.lang.IgnoreRest
@@ -9,8 +9,7 @@ import spock.lang.Specification
 /**
  * See the API for {@link grails.test.mixin.web.ControllerUnitTestMixin} for usage instructions
  */
-
-@Mock([LinkResource, Resource])
+@Mock(Resource)
 @TestFor(ResourceController)
 class ResourceControllerSpec extends Specification {
 
@@ -20,49 +19,41 @@ class ResourceControllerSpec extends Specification {
     def cleanup() {
     }
 
-    @IgnoreRest
-    void "testing delete of link resource"() {
+    void "delete successful"() {
         setup:
-        LinkResource linkResource = new LinkResource(url: 'mylink.com').save(flush: true, validate: false)
-        assert LinkResource.count()
-
-       when:
-        controller.deleteResource(linkResource.id)
-
-        then:
-        LinkResource.count() == 0
-        //response.contentAsString=="Resource Deleted"
-    }
-
-
-/*
-    void "delete tested"() {
-        given:
-        LinkResource linkResource = new LinkResource(url: "www.google.com")
+        Resource resource
         Resource.metaClass.static.get = { def id ->
-            return linkResource
+            return resource
         }
-
         and:
-        linkResource.metaClass.delete = { def id ->
-            return true
-        }
+        Resource.metaClass.delete = {Map p->   }
+        resource=new LinkResource()
+
+
 
         when:
-        controller.deleteResource(id1)
+        controller.delete()
 
         then:
-        response.contentAsString == result
-
+        response.contentAsString == ""
         where:
-        id1 | result
-        1   | "Resource Deleted"
-        2   | 'Resource not found'
-
+        id=1
 
     }
 
-*/
+    def "delete resource not found"(){
+        setup:
+        Resource.metaClass.static.get = { def id ->
+            return null
+        }
+        Resource.metaClass.delete={}
+        when:
+        controller.delete()
 
+        then:
+        response.contentAsString == "resource not found"
 
+        where:
+        id=1
+    }
 }

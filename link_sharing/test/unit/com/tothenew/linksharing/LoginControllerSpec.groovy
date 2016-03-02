@@ -1,5 +1,6 @@
 package com.tothenew.linksharing
 
+import grails.test.mixin.Mock
 import grails.test.mixin.TestFor
 import spock.lang.Specification
 import spock.lang.Unroll
@@ -8,7 +9,7 @@ import spock.lang.Unroll
  * See the API for {@link grails.test.mixin.web.ControllerUnitTestMixin} for usage instructions
  */
 
-
+@Mock([User,Subscription,Topic,LinkResource])
 @TestFor(LoginController)
 class LoginControllerSpec extends Specification {
 
@@ -26,7 +27,7 @@ class LoginControllerSpec extends Specification {
         controller.index()
 
         then:
-        response.forwardedUrl == '/user/index'
+        flash.message =="Login Successfull"
     }
 
     void "Login index should render failure when Session.user is not set"() {
@@ -47,16 +48,16 @@ class LoginControllerSpec extends Specification {
         // password=test@1234
 
         when:
-        controller.loginHandler(username, password)
+        controller.login(username, password)
 
         then:
         response.forwardedUrl == result
-        flash.error == error
+        flash.message == error
 
         where:
         active | result         | error                        | username        | password
         true   | '/login/index' | null                         | 'Deepak Uniyal' | 'test@1234'
-        false  | null           | 'your account is not active' | 'Deepak Uniyal' | 'test@1234'
+        false  | null           | 'your account is not active' | 'Waquar Azam' | 'test@1234'
     }
 
 
@@ -67,10 +68,11 @@ class LoginControllerSpec extends Specification {
             return null
         }
         when:
-        controller.loginHandler(username, password)
+        controller.login(username, password)
 
         then:
         flash.error == error
+
 
         where:
         error            | username        | password

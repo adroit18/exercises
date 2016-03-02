@@ -14,13 +14,14 @@
 
 <body>
 <div class="col-xs-5">
-
-<g:render template="/user/details"/>
-<g:render template="/subscription/subscriptions"/>
+%{--<g:each in="${userDetails}" var="details">--}%
+    %{--sadfasdfadfadfadfafafass ${details[0]}</g:each>--}%
+<g:render template="/user/details" model="[userDetails:userDetails]" />
+<g:render template="/subscription/subscriptions" model="[subscriptionList:subscriptionList]" />
 </div>
 <div class="col-xs-7">
-<g:render template="/topic/trendingTopics"/>
-<g:render template="/resource/recentShares"/>
+<g:render template="/topic/trendingTopics" model="[trendingTopicsList:trendingTopicsList]"/>
+<g:render template="/resource/recentShares" model="[recentShares:recentShares]"/>
 </div>
 
 </body>

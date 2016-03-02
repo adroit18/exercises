@@ -15,11 +15,7 @@
 
     </div>
 
-<% ResourceRating resourceRating = new ResourceRating()
-def list = resourceRating.getTopPosts();
-list.each {
-
-%>
+<g:each in="${resourceList}" var="resource">
 <div class="panel-body bdy" margin="10px 10px 10px 10px">
     <div class="row">
         <div class="col-xs-2">
@@ -27,12 +23,12 @@ list.each {
         </div>
 
         <div class="col-xs-10">
-            <div>Uday Pratap Singh<span class="text-muted">@uday 21 july 2014</span>
+            <div>${resource.createdBy}<span class="text-muted">@uday 21 july 2014</span>
 
-                <div class="pull-right"><a href="#">Grails</a></div>
+                <div class="pull-right"><a href="https://${resource.url}">${resource.url}</a></div>
 
                 <p>
-                    <% println "topic says  ${it[0]}, with a score of ${it[1]}" %>
+                    ${resource.description}
                 </p>
 
                 <i class="fa fa-facebook-official"></i>
@@ -43,9 +39,6 @@ list.each {
 
     </div>
 </div></br><hr style="border-width:3px;padding:0px;border-color:blue">
-<%
-
-    }
-%>
+</g:each>
 </div>
 
